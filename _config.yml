@@ -13,7 +13,7 @@ timezone: America/Sao_Paulo
 # ↓ --------------------------
 
 title: Notas do Rafa # Título principal
-tagline: Devlog & ZEL OS # Subtítulo
+tagline: LLM whisperer | TOT editor # Subtítulo
 
 description: >-
   O blog pessoal do Rafa Mass. Tecnologia, automação e notas do sistema ZEL OS.
@@ -64,7 +64,7 @@ theme_mode: dark
 cdn:
 
 # Avatar (Se quiser colocar uma foto depois, coloque o caminho aqui)
-avatar:
+avatar: /assets/img/avatar.png
 
 # Imagem de preview social
 social_preview_image:
