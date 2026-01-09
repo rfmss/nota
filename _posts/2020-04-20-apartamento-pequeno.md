@@ -1,7 +1,6 @@
 ---
 date: 2020-04-20
 title: "Apartamento Pequeno"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

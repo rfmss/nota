@@ -1,7 +1,6 @@
 ---
 date: 2020-02-05
 title: "Não Chegue Cedo"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

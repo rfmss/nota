@@ -1,7 +1,6 @@
 ---
 date: 2020-09-17
 title: "Cantiga de Roda"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

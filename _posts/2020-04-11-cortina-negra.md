@@ -1,7 +1,6 @@
 ---
 date: 2020-04-11
 title: "Cortina Negra"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

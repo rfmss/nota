@@ -1,7 +1,6 @@
 ---
 date: 2020-07-18
 title: "Atavismos: Logo Eu"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,7 +1,6 @@
 ---
 date: 2020-03-06
 title: "Talvez, Não."
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

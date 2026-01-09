@@ -1,7 +1,6 @@
 ---
 date: 2020-10-08
 title: "Verificação de Passagens!"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

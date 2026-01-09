@@ -1,7 +1,6 @@
 ---
 date: 2020-06-09
 title: "FMFB#9: Eu ia, não&nbsp;fui"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

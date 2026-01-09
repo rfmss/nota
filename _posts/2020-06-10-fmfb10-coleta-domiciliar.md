@@ -1,7 +1,6 @@
 ---
 date: 2020-06-10
 title: "FMFB#10: Coleta Domiciliar"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

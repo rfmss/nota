@@ -1,7 +1,6 @@
 ---
 date: 2020-04-16
 title: "A última entrevista"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

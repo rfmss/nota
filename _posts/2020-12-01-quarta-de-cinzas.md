@@ -1,7 +1,6 @@
 ---
 date: 2020-12-01
 title: "Quarta de Cinzas"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

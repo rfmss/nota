@@ -1,7 +1,6 @@
 ---
 date: 2020-09-16
 title: "Morte Morrida"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

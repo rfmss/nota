@@ -1,7 +1,6 @@
 ---
 date: 2020-08-04
 title: "Criado Mudo"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,7 +1,6 @@
 ---
 date: 2020-06-17
 title: "FMFB#17: O Tessálico"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

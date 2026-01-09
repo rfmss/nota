@@ -1,7 +1,6 @@
 ---
 date: 2020-07-14
 title: "Atavismos: Vácuo"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

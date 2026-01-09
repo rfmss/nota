@@ -1,7 +1,6 @@
 ---
 date: 2020-01-25
 title: "A Vitória de&nbsp;Samotrácia"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

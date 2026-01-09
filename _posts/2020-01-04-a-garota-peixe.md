@@ -1,7 +1,6 @@
 ---
 date: 2020-01-04
 title: "A Garota Peixe"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

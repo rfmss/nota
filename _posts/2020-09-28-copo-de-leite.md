@@ -1,7 +1,6 @@
 ---
 date: 2020-09-28
 title: "Copo de Leite"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

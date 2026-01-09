@@ -1,7 +1,6 @@
 ---
 date: 2020-02-19
 title: "O Passadiço"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,7 +1,6 @@
 ---
 date: 2020-12-04
 title: "Inferno Astral"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

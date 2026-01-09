@@ -1,7 +1,6 @@
 ---
 date: 2020-09-02
 title: "Lobo de Papel"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

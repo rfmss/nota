@@ -1,7 +1,6 @@
 ---
 date: 2020-10-14
 title: "&#8220;Não dou conselho, dou&nbsp;amor&#8221;"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

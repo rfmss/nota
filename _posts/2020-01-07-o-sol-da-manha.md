@@ -1,7 +1,6 @@
 ---
 date: 2020-01-07
 title: "O Sol da&nbsp;Manhã"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

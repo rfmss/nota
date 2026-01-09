@@ -1,7 +1,6 @@
 ---
 date: 2020-06-08
 title: "FMFB#8: Americanah"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

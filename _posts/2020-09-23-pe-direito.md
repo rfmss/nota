@@ -1,7 +1,6 @@
 ---
 date: 2020-09-23
 title: "Pé Direito"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

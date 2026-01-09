@@ -1,7 +1,6 @@
 ---
 date: 2020-01-12
 title: "Calor tá de&nbsp;Matar"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

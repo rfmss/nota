@@ -1,7 +1,6 @@
 ---
 date: 2020-07-19
 title: "Atavismos: Espelho"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

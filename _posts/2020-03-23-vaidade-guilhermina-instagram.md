@@ -1,7 +1,6 @@
 ---
 date: 2020-03-23
 title: "Capítulo 7 &#8211; Vaidade: Guilhermina&nbsp;(Instagram)"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

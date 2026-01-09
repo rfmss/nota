@@ -1,7 +1,6 @@
 ---
 date: 2020-01-20
 title: "A Cidade Inventada&nbsp;PT1"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

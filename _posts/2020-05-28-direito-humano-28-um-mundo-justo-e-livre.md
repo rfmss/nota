@@ -1,7 +1,6 @@
 ---
 date: 2020-05-28
 title: "Direito Humano 28: Um Mundo Justo e&nbsp;Livre"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

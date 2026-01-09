@@ -1,7 +1,6 @@
 ---
 date: 2020-08-20
 title: "Gesamtkunstwerk"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

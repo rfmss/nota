@@ -1,7 +1,6 @@
 ---
 date: 2020-09-14
 title: "Eu saio, Nara"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

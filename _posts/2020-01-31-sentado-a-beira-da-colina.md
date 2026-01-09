@@ -1,7 +1,6 @@
 ---
 date: 2020-01-31
 title: "Sentado à Beira da&nbsp;Colina"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,7 +1,6 @@
 ---
 date: 2020-09-03
 title: "Guardiões"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

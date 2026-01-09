@@ -1,7 +1,6 @@
 ---
 date: 2020-11-12
 title: "Prioridades"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

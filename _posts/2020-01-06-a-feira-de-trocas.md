@@ -1,7 +1,6 @@
 ---
 date: 2020-01-06
 title: "A Feira de&nbsp;Trocas"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

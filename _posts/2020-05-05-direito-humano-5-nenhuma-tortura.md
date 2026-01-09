@@ -1,7 +1,6 @@
 ---
 date: 2020-05-05
 title: "Direito Humano 5: Nenhuma&nbsp;Tortura"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

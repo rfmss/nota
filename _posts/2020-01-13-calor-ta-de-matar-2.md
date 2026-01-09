@@ -1,7 +1,6 @@
 ---
 date: 2020-01-13
 title: "Sétimo Dia"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

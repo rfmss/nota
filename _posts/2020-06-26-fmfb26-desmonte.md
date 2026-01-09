@@ -1,7 +1,6 @@
 ---
 date: 2020-06-26
 title: "FMFB#26: Desmonte"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

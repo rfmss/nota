@@ -1,7 +1,6 @@
 ---
 date: 2020-08-06
 title: "Hebdomadário"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

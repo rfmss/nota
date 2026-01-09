@@ -1,7 +1,6 @@
 ---
 date: 2020-03-18
 title: "Capítulo 2 &#8211; Preguiça: Sid&nbsp;(Netflix)"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,7 +1,6 @@
 ---
 date: 2020-05-09
 title: "Direito Humano 9: Nenhuma Detenção&nbsp;Injusta"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

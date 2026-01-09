@@ -1,7 +1,6 @@
 ---
 date: 2020-02-13
 title: "Forma e Função"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

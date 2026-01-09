@@ -1,7 +1,6 @@
 ---
 date: 2020-03-02
 title: "Fora de Casa"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

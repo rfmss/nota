@@ -1,7 +1,6 @@
 ---
 date: 2020-10-06
 title: "Diálogos: Menina do&nbsp;Céu"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

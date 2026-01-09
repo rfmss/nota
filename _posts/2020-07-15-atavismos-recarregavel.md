@@ -1,7 +1,6 @@
 ---
 date: 2020-07-15
 title: "Atavismos: Recarregável"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

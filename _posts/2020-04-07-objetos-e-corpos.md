@@ -1,7 +1,6 @@
 ---
 date: 2020-04-07
 title: "Objetos e Corpos"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

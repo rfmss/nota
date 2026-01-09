@@ -1,7 +1,6 @@
 ---
 date: 2020-09-18
 title: "Na pata da&nbsp;onça"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

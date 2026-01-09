@@ -1,7 +1,6 @@
 ---
 date: 2020-05-31
 title: "FMFB#1: Alteridade"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

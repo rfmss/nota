@@ -1,7 +1,6 @@
 ---
 date: 2020-06-14
 title: "FMFB#14: O Pássaro"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

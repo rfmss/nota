@@ -1,7 +1,6 @@
 ---
 date: 2020-01-23
 title: "A Cor e o&nbsp;Salteado"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

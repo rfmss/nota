@@ -1,7 +1,6 @@
 ---
 date: 2020-07-30
 title: "Atavismos: Cumbuca"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

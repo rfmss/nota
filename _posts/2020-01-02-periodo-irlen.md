@@ -1,7 +1,6 @@
 ---
 date: 2020-01-02
 title: "Período Irlen"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,7 +1,6 @@
 ---
 date: 2020-07-10
 title: "Atavismos: Casa"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

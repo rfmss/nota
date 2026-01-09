@@ -1,7 +1,6 @@
 ---
 date: 2020-03-29
 title: "Roller Blitz &#8211; Capítulo&nbsp;Final"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

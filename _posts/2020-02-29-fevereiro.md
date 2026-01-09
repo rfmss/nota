@@ -1,7 +1,6 @@
 ---
 date: 2020-02-29
 title: "Fevereiro"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

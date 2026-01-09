@@ -1,7 +1,6 @@
 ---
 date: 2020-02-16
 title: "A Partícula Fantasma"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

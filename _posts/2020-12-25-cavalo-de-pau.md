@@ -1,7 +1,6 @@
 ---
 date: 2020-12-25
 title: "Cavalo de Pau"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

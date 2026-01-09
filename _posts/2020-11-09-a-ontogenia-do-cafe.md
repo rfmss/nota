@@ -1,7 +1,6 @@
 ---
 date: 2020-11-09
 title: "A Ontogenia do&nbsp;Café"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,7 +1,6 @@
 ---
 date: 2020-09-05
 title: "Irmão Ribeirinho"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

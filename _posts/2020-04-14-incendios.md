@@ -1,7 +1,6 @@
 ---
 date: 2020-04-14
 title: "Incêndios"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

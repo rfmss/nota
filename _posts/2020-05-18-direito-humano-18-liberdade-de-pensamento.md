@@ -1,7 +1,6 @@
 ---
 date: 2020-05-18
 title: "Direito Humano 18: Liberdade de&nbsp;Pensamento"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,7 +1,6 @@
 ---
 date: 2020-05-30
 title: "Direito Humano 30: Ninguém Pode Tirar–lhe os seus Direitos&nbsp;Humanos"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

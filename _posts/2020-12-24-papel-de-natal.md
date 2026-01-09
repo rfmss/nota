@@ -1,7 +1,6 @@
 ---
 date: 2020-12-24
 title: "Papel de Natal"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

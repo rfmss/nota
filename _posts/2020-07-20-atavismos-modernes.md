@@ -1,7 +1,6 @@
 ---
 date: 2020-07-20
 title: "Atavismos:  &#8220;Modernes&#8221;"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

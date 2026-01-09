@@ -1,7 +1,6 @@
 ---
 date: 2020-02-15
 title: "Festa Surpresa"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

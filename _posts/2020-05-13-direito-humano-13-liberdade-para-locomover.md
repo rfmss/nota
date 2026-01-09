@@ -1,7 +1,6 @@
 ---
 date: 2020-05-13
 title: "Direito Humano 13: Liberdade para&nbsp;Locomover"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

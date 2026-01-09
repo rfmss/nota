@@ -1,7 +1,6 @@
 ---
 date: 2020-11-15
 title: "Tudo que você tem não é&nbsp;seu."
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

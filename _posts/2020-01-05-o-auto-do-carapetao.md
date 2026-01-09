@@ -1,7 +1,6 @@
 ---
 date: 2020-01-05
 title: "O auto do&nbsp;Carapetão"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

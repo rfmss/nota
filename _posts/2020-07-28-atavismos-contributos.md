@@ -1,7 +1,6 @@
 ---
 date: 2020-07-28
 title: "Atavismos: Contributos"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

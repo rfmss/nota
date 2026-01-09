@@ -1,7 +1,6 @@
 ---
 date: 2020-12-13
 title: "Etiologia"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

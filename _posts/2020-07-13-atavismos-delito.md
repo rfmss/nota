@@ -1,7 +1,6 @@
 ---
 date: 2020-07-13
 title: "Atavismos: Delito"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,7 +1,6 @@
 ---
 date: 2020-08-26
 title: "Crisálida"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

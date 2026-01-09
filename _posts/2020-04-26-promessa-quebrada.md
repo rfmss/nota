@@ -1,7 +1,6 @@
 ---
 date: 2020-04-26
 title: "Promessa Quebrada"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

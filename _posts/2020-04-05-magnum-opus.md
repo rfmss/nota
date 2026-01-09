@@ -1,7 +1,6 @@
 ---
 date: 2020-04-05
 title: "Magnum Opus"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,7 +1,6 @@
 ---
 date: 2020-05-07
 title: "Direito Humano 7: Somos Todos Iguais Perante a&nbsp;Lei"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

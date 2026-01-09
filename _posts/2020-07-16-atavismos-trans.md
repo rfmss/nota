@@ -1,7 +1,6 @@
 ---
 date: 2020-07-16
 title: "Atavismos: Trans"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,7 +1,6 @@
 ---
 date: 2020-03-19
 title: "Capítulo 3 &#8211; Gula: Paula&nbsp;(iFood)"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

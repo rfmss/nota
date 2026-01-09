@@ -1,7 +1,6 @@
 ---
 date: 2020-01-27
 title: "Vai Chover"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,7 +1,6 @@
 ---
 date: 2020-10-28
 title: "Hominídeo"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,7 +1,6 @@
 ---
 date: 2020-03-15
 title: "Grande Final"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

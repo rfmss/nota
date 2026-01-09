@@ -1,7 +1,6 @@
 ---
 date: 2020-02-18
 title: "Fogo-Fátuo"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

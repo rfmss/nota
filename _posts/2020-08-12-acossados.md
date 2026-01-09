@@ -1,7 +1,6 @@
 ---
 date: 2020-08-12
 title: "Acossados"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

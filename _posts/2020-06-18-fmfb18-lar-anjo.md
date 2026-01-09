@@ -1,7 +1,6 @@
 ---
 date: 2020-06-18
 title: "FMFB#18: Lar-Anjo"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,7 +1,6 @@
 ---
 date: 2020-06-13
 title: "FMFB#13: Objetos"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

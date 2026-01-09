@@ -1,7 +1,6 @@
 ---
 date: 2020-06-19
 title: "FMFB#19: Ciência"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

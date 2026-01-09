@@ -1,7 +1,6 @@
 ---
 date: 2020-07-29
 title: "Atavismos: Hoje Não"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

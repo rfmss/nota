@@ -1,7 +1,6 @@
 ---
 date: 2020-07-04
 title: "Atavismos: Elefante"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

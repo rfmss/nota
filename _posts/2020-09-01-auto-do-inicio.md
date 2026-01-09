@@ -1,7 +1,6 @@
 ---
 date: 2020-09-01
 title: "Auto do Início"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

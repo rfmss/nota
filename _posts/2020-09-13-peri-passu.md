@@ -1,7 +1,6 @@
 ---
 date: 2020-09-13
 title: "Peri Passu"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

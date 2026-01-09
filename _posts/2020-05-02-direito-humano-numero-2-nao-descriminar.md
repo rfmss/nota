@@ -1,7 +1,6 @@
 ---
 date: 2020-05-02
 title: "Direito Humano 2: Não&nbsp;Descriminar"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

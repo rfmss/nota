@@ -1,7 +1,6 @@
 ---
 date: 2020-01-03
 title: "Iridescente"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

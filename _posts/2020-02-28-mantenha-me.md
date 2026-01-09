@@ -1,7 +1,6 @@
 ---
 date: 2020-02-28
 title: "Mantenha-me"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

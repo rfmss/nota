@@ -1,7 +1,6 @@
 ---
 date: 2020-01-26
 title: "A Cidade Invertida"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

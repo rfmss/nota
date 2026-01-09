@@ -1,7 +1,6 @@
 ---
 date: 2020-12-03
 title: "Terroristas"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

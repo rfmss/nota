@@ -1,7 +1,6 @@
 ---
 date: 2020-05-06
 title: "Direito Humano 6: Você tem Direitos Onde Quer Que&nbsp;Vá"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

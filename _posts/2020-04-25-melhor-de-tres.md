@@ -1,7 +1,6 @@
 ---
 date: 2020-04-25
 title: "Melhor de Três"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,7 +1,6 @@
 ---
 date: 2020-08-03
 title: "A Passagem"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

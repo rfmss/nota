@@ -1,7 +1,6 @@
 ---
 date: 2020-06-04
 title: "FMFB#4: Bye Bye,&nbsp;Creta!"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

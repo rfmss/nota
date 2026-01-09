@@ -1,7 +1,6 @@
 ---
 date: 2020-03-22
 title: "Capítulo 6 &#8211; Ira: Brigite&nbsp;(Twitter)"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

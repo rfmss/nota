@@ -1,7 +1,6 @@
 ---
 date: 2020-07-07
 title: "Atavismos: Vantagem"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

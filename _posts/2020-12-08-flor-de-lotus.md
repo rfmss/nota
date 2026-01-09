@@ -1,7 +1,6 @@
 ---
 date: 2020-12-08
 title: "Flor-de-Lótus"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,7 +1,6 @@
 ---
 date: 2020-05-15
 title: "Direito Humano 15: Direito a uma&nbsp;Nacionalidade"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

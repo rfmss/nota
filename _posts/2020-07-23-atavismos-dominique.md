@@ -1,7 +1,6 @@
 ---
 date: 2020-07-23
 title: "Atavismos: Dominique"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

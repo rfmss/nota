@@ -1,7 +1,6 @@
 ---
 date: 2020-05-25
 title: "Direito Humano 25: Comida e Abrigo para&nbsp;Todos"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

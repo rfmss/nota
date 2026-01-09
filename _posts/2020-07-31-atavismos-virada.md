@@ -1,7 +1,6 @@
 ---
 date: 2020-07-31
 title: "Atavismos: Virada"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

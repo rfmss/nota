@@ -1,7 +1,6 @@
 ---
 date: 2020-03-08
 title: "&#8220;Sororidariedade&#8221;"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,7 +1,6 @@
 ---
 date: 2020-12-07
 title: "Petrificado"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

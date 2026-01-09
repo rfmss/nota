@@ -1,7 +1,6 @@
 ---
 date: 2020-01-16
 title: "Pobre Geraldo"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

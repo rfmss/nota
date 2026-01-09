@@ -1,7 +1,6 @@
 ---
 date: 2020-09-12
 title: "Labirinto de Fauna"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

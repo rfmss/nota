@@ -1,7 +1,6 @@
 ---
 date: 2020-05-20
 title: "Direito Humano 20: O Direito de se Reunir&nbsp;Publicamente"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

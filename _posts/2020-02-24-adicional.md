@@ -1,7 +1,6 @@
 ---
 date: 2020-02-24
 title: "Adicional"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

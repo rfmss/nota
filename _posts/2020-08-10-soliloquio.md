@@ -1,7 +1,6 @@
 ---
 date: 2020-08-10
 title: "Solilóquio"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

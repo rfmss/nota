@@ -1,7 +1,6 @@
 ---
 date: 2020-02-21
 title: "A Separação"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

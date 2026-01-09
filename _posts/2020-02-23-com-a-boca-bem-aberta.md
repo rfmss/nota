@@ -1,7 +1,6 @@
 ---
 date: 2020-02-23
 title: "Com a Boca Bem&nbsp;Aberta"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

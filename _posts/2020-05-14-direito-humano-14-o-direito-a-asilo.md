@@ -1,7 +1,6 @@
 ---
 date: 2020-05-14
 title: "Direito Humano 14: O direito a&nbsp;Asilo"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

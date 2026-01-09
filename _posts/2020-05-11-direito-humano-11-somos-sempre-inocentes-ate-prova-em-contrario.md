@@ -1,7 +1,6 @@
 ---
 date: 2020-05-11
 title: "Direito Humano 11: Somos Sempre Inocentes Até Prova Em&nbsp;Contrário"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

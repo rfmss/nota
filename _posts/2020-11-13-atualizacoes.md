@@ -1,7 +1,6 @@
 ---
 date: 2020-11-13
 title: "Atualizações"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

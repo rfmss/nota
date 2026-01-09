@@ -1,7 +1,6 @@
 ---
 date: 2020-07-06
 title: "Atavismos: Varanda"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

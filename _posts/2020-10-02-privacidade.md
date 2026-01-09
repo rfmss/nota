@@ -1,7 +1,6 @@
 ---
 date: 2020-10-02
 title: "Diálogos: Privacidade"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

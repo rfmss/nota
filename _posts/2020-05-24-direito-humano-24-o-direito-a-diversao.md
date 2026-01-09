@@ -1,7 +1,6 @@
 ---
 date: 2020-05-24
 title: "Direito Humano 24: O Direito à&nbsp;Diversão"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,7 +1,6 @@
 ---
 date: 2020-02-03
 title: "O Escolhido"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,7 +1,6 @@
 ---
 date: 2020-07-12
 title: "Atavismos: Natação"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,7 +1,6 @@
 ---
 date: 2020-10-21
 title: "Surpreso Inffinittamente"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,7 +1,6 @@
 ---
 date: 2020-11-14
 title: "Contributos"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,7 +1,6 @@
 ---
 date: 2020-01-28
 title: "Salada Mista"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

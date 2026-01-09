@@ -1,7 +1,6 @@
 ---
 date: 2020-05-12
 title: "Direito Humano 12: O Direito à&nbsp;Privacidade"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

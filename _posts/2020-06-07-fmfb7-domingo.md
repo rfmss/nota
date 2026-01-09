@@ -1,7 +1,6 @@
 ---
 date: 2020-06-07
 title: "FMFB#7: Domingo"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,7 +1,6 @@
 ---
 date: 2020-01-15
 title: "Doença de Guardar"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

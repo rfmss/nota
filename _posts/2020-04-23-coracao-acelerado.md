@@ -1,7 +1,6 @@
 ---
 date: 2020-04-23
 title: "Coração Acelerado"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

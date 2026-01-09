@@ -1,7 +1,6 @@
 ---
 date: 2020-10-20
 title: "Dispersão"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

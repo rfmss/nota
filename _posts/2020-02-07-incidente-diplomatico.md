@@ -1,7 +1,6 @@
 ---
 date: 2020-02-07
 title: "Incidente Diplomático"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

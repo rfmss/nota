@@ -1,7 +1,6 @@
 ---
 date: 2020-03-05
 title: "Intelectual Não Vai à&nbsp;Praia"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

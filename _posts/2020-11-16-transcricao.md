@@ -1,7 +1,6 @@
 ---
 date: 2020-11-16
 title: "Transcrição"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

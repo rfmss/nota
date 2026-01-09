@@ -1,7 +1,6 @@
 ---
 date: 2020-02-20
 title: "São Paulo é&nbsp;assim"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

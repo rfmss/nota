@@ -1,7 +1,6 @@
 ---
 date: 2020-11-06
 title: "Interpretação"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

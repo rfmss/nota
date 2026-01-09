@@ -1,7 +1,6 @@
 ---
 date: 2020-11-11
 title: "Dúvidas várias"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,7 +1,6 @@
 ---
 date: 2020-06-16
 title: "FMFB#16: Conversa"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

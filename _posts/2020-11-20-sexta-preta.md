@@ -1,7 +1,6 @@
 ---
 date: 2020-11-20
 title: "Sexta Preta"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

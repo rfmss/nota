@@ -1,7 +1,6 @@
 ---
 date: 2020-07-11
 title: "Atavismos: Fitoterápico"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 

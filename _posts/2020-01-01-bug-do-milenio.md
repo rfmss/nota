@@ -1,7 +1,6 @@
 ---
 date: 2020-01-01
 title: "Bug do Milênio"
-author: Raffael Massena
 tags: [FioDoVerso, "2020"]
 ---
 
