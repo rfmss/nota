@@ -2,7 +2,7 @@
 date: 2020-09-30
 title: "Alvorada de Outubros"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
     Sócrates vai te lembrar

@@ -2,7 +2,7 @@
 date: 2020-03-12
 title: "O Canto do&nbsp;Pássaro"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 O caseiro deixou tudo organizado. Recebeu os donos do sítio na companhia

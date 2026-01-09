@@ -2,7 +2,7 @@
 date: 2020-06-05
 title: "FMFB#5: Saudade"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Estava eu ali pela casa e tal, tive uma ideia. Aquele tipo que não

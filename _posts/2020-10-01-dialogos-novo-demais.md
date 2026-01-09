@@ -2,7 +2,7 @@
 date: 2020-10-01
 title: "Diálogos: Novo Demais"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
     - Daí quando ele chegar a gente começar a cantar

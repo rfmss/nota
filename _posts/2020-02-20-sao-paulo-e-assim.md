@@ -2,7 +2,7 @@
 date: 2020-02-20
 title: "São Paulo é&nbsp;assim"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Deixou o passaporte cair. O café brasileiro, com saudades, pulou em sua

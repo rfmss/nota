@@ -2,7 +2,7 @@
 date: 2020-09-06
 title: "Eles que Lutem"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
     Diga de quem é a culpa?

@@ -2,7 +2,7 @@
 date: 2020-07-07
 title: "Atavismos: Vantagem"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Ardósia é uma pedra muito bonita, principalmente quando encerada. As

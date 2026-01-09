@@ -2,7 +2,7 @@
 date: 2020-01-21
 title: "A Cidade Inventada PT&nbsp;2"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 – O sinhô não merece, mas quero saber porque botô fogo nas minhas coisa.

@@ -2,7 +2,7 @@
 date: 2020-05-22
 title: "Direito Humano 22: Segurança&nbsp;Social"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 A cafeteria destruída, uma rua lotada de curiosos e um dilema: revelar

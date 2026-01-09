@@ -2,7 +2,7 @@
 date: 2020-07-04
 title: "Atavismos: Elefante"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 O objeto livro é papel. Tinta, verniz, relevo, mas, sobretudo, papel. Um

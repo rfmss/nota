@@ -2,7 +2,7 @@
 date: 2020-05-23
 title: "Direito Humano 23: Direitos dos&nbsp;Trabalhadores"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Uma realidade completamente nova surgia sobreposta a uma antiga, mais

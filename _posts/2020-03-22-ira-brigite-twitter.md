@@ -2,7 +2,7 @@
 date: 2020-03-22
 title: "Capítulo 6 &#8211; Ira: Brigite&nbsp;(Twitter)"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Uma cidade é mais que o fluxo de pessoas, trânsito e barulho. As camadas

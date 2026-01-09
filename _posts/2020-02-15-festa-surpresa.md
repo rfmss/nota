@@ -2,7 +2,7 @@
 date: 2020-02-15
 title: "Festa Surpresa"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Tudo isso que você está vendo foi sem combinação entre nós. Juro. Mas eu

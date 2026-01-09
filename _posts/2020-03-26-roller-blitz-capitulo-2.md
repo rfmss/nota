@@ -2,7 +2,7 @@
 date: 2020-03-26
 title: "Roller Blitz &#8211; Capítulo&nbsp;2"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 – Seremos perseguidos enquanto não vingarem a morte do Cap. 

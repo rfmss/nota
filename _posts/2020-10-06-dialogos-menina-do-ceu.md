@@ -2,7 +2,7 @@
 date: 2020-10-06
 title: "Diálogos: Menina do&nbsp;Céu"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 – Menina, tu não vai acreditar quem morreu?

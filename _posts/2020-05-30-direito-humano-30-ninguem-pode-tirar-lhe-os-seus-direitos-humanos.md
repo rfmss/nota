@@ -2,7 +2,7 @@
 date: 2020-05-30
 title: "Direito Humano 30: Ninguém Pode Tirar–lhe os seus Direitos&nbsp;Humanos"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 O planeta gasoso, ao receber a visita da Luz, perdeu turves e abriu-se

@@ -2,7 +2,7 @@
 date: 2020-03-16
 title: "Um Certo Aquilo"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Em determinado momento, no pico da curva da vida, o homem olha para

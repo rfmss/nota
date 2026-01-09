@@ -2,7 +2,7 @@
 date: 2020-03-03
 title: "Cinquenta BPM"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 – Dona Vera? A Médica já vai atendê-la. 

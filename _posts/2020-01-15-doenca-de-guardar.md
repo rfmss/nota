@@ -2,7 +2,7 @@
 date: 2020-01-15
 title: "Doença de Guardar"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Lá da curva da autoestrada, antes do posto de gasolina, tudo o que a

@@ -2,7 +2,7 @@
 date: 2020-02-03
 title: "O Escolhido"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 O cheiro se misturava nos corredores. De um lado sabão em pó, do outro,

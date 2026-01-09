@@ -2,7 +2,7 @@
 date: 2020-07-27
 title: "Atavismos: Aporia"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Nosso esqueleto recebe a camada de cartilagem, sistemas nervoso e

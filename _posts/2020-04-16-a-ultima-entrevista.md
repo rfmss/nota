@@ -2,7 +2,7 @@
 date: 2020-04-16
 title: "A última entrevista"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 O escritor, que não costumava fazer aparições públicas, decidiu que

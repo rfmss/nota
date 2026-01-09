@@ -2,7 +2,7 @@
 date: 2020-10-04
 title: "Diálogos: Pagode"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 – Que horas? 

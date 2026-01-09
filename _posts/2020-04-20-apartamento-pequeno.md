@@ -2,7 +2,7 @@
 date: 2020-04-20
 title: "Apartamento Pequeno"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 As crianças de hoje talvez não saibam, mas, num passado distante, houve

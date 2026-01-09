@@ -2,7 +2,7 @@
 date: 2020-05-04
 title: "Direito Humano 4: Nenhuma&nbsp;Escravatura"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 – Bom dia, mamãe. 

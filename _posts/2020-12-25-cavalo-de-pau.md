@@ -2,7 +2,7 @@
 date: 2020-12-25
 title: "Cavalo de Pau"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 O museu de Madri guarda documentos de Leonardo da Vinci (XV) com o

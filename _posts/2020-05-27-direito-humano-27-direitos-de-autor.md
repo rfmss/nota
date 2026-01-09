@@ -2,7 +2,7 @@
 date: 2020-05-27
 title: "Direito Humano 27: Direitos de&nbsp;Autor"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 – Corta! 

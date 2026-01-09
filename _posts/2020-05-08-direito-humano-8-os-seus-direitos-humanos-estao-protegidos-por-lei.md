@@ -2,7 +2,7 @@
 date: 2020-05-08
 title: "Direito Humano 8: Os Seus Direitos Humanos Estão Protegidos por&nbsp;Lei"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Em todo o universo, novos tratados surgiram para firmar a paz entre

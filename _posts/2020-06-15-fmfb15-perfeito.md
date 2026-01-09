@@ -2,7 +2,7 @@
 date: 2020-06-15
 title: "FMFB#15: Perfeito"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Não é TOC, eu já fui conferir com o psicanalista. É uma busca, uma

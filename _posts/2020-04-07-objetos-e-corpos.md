@@ -2,7 +2,7 @@
 date: 2020-04-07
 title: "Objetos e Corpos"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Em uma cidade do interior, não me recordo o nome na ocasião, eu passeava

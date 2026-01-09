@@ -2,7 +2,7 @@
 date: 2020-09-27
 title: "Julieta Fugiu!"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
     Que bonito é o som

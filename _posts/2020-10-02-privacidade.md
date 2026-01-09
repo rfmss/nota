@@ -2,7 +2,7 @@
 date: 2020-10-02
 title: "Diálogos: Privacidade"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
     - como assim? vc acha que tão ouvindo a gente? 

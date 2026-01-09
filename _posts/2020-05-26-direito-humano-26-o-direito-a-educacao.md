@@ -2,7 +2,7 @@
 date: 2020-05-26
 title: "Direito Humano 26: O Direito à&nbsp;Educação"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Certas angústias precisam de espaço para desaguar-se em expressão.

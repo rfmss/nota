@@ -2,7 +2,7 @@
 date: 2020-04-13
 title: "Entremeios"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Pensamentos são como bichos soltos aos pés de uma montanha. Quando

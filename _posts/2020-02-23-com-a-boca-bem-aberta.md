@@ -2,7 +2,7 @@
 date: 2020-02-23
 title: "Com a Boca Bem&nbsp;Aberta"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Sistemas de defesa são acionados quando há o surgimento de um perigo

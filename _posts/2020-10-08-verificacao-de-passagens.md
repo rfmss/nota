@@ -2,7 +2,7 @@
 date: 2020-10-08
 title: "Verificação de Passagens!"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Parando aqui para refletir; no começo do ano, não, antes até, em

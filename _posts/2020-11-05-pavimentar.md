@@ -2,7 +2,7 @@
 date: 2020-11-05
 title: "Pavimentar"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Voltou da rua ofegante, desinfetou a sola do pé, tirou a roupa e

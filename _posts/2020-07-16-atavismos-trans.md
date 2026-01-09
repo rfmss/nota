@@ -2,7 +2,7 @@
 date: 2020-07-16
 title: "Atavismos: Trans"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Entre masculino e feminino encontra-se um vale a ser descoberto. Mata

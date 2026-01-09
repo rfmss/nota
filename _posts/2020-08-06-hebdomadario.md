@@ -2,7 +2,7 @@
 date: 2020-08-06
 title: "Hebdomadário"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Na sala não se dizia uma palavra. Quem chegava, ocupava sua cadeira e

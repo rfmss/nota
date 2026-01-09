@@ -2,7 +2,7 @@
 date: 2020-09-22
 title: "Só o que a terra&nbsp;dá"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
     Pura falta de memória

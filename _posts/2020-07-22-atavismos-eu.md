@@ -2,7 +2,7 @@
 date: 2020-07-22
 title: "Atavismos: Eu"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Reticente em assistir àquela série indicada, aceitei! Passei três dias

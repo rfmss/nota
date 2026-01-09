@@ -2,7 +2,7 @@
 date: 2020-09-23
 title: "Pé Direito"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
     Ritmo é coisa de doido

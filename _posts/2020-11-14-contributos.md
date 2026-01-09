@@ -2,7 +2,7 @@
 date: 2020-11-14
 title: "Contributos"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 A delegacia de crimes virtuais havia recebido a denúncia meses atrás,

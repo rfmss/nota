@@ -2,7 +2,7 @@
 date: 2020-07-11
 title: "Atavismos: Fitoterápico"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Não tenho mais cafeteira! Recolhi os cacos do corpo de vidro da prensa

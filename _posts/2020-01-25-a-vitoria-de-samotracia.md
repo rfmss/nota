@@ -2,7 +2,7 @@
 date: 2020-01-25
 title: "A Vitória de&nbsp;Samotrácia"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Por algum motivo, que não se pode analisar no momento, Daru, o estudante

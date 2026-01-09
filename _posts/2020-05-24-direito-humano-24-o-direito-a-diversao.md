@@ -2,7 +2,7 @@
 date: 2020-05-24
 title: "Direito Humano 24: O Direito à&nbsp;Diversão"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 A carruagem cortou o céu gelado de Sossur. Os cristais da trilha de

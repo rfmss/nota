@@ -2,7 +2,7 @@
 date: 2020-01-07
 title: "O Sol da&nbsp;Manhã"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Não fosse o grupo impedir a prefeitura do corte, supostamente ilegal,

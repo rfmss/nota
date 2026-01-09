@@ -2,7 +2,7 @@
 date: 2020-06-01
 title: "FMFB#2: Fora Dentro"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Paro. Me resta palavra para quando abra boca não me calo na língua de

@@ -2,7 +2,7 @@
 date: 2020-07-24
 title: "Atavismos: Confronto"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Existe um certo jeito de olhar que, caso acerte o ângulo e a inclinação

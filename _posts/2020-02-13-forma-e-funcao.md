@@ -2,7 +2,7 @@
 date: 2020-02-13
 title: "Forma e Função"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 – Amor, me ajuda aqui. 

@@ -2,7 +2,7 @@
 date: 2020-09-29
 title: "Praça Onze"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
     Hoje a pisa é de dança

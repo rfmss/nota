@@ -2,7 +2,7 @@
 date: 2020-05-12
 title: "Direito Humano 12: O Direito à&nbsp;Privacidade"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Lucas e Gisele se aproximavam do “Opala-DeLorean”, onde o sistema

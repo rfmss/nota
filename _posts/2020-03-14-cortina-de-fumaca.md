@@ -2,7 +2,7 @@
 date: 2020-03-14
 title: "Cortina de Fumaça"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 A única janela exposta do alojamento permitia que a luz do letreiro

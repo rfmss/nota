@@ -2,7 +2,7 @@
 date: 2020-09-21
 title: "Sete bilhões de&nbsp;faróis"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
     Turma de dois mil e vinte

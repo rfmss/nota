@@ -2,7 +2,7 @@
 date: 2020-07-13
 title: "Atavismos: Delito"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Entre uma cartada e outra, olhei bem para ela e concentrei-me em sentir

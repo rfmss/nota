@@ -2,7 +2,7 @@
 date: 2020-08-26
 title: "Crisálida"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Sem vício, saiu para fumar. Qualquer desculpa precisa de detalhes, o

@@ -2,7 +2,7 @@
 date: 2020-10-21
 title: "Surpreso Inffinittamente"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 O dia é costurado de pequenos momentos interdependentes, que pedem. É

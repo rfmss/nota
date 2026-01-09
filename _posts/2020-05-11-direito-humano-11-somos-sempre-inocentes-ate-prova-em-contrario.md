@@ -2,7 +2,7 @@
 date: 2020-05-11
 title: "Direito Humano 11: Somos Sempre Inocentes Até Prova Em&nbsp;Contrário"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 De volta à mesma vaga no estacionamento, Gisele recolheu-se no banco de

@@ -2,7 +2,7 @@
 date: 2020-01-05
 title: "O auto do&nbsp;Carapetão"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 De todas as histórias que se tem para contar, o caso de moço Everin

@@ -2,7 +2,7 @@
 date: 2020-06-12
 title: "FMFB#12: Sozinhozinho"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Veja só que encontro inevitável de duas solidões; eu daqui, escrevendo,

@@ -2,7 +2,7 @@
 date: 2020-09-07
 title: "O Cavalo era&nbsp;Mula"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
     Se Marengo relinchou

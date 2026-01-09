@@ -2,7 +2,7 @@
 date: 2020-01-09
 title: "Real Gabinete"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 As nuvens cobriam a parte de cima da figura. Tão grande quanto o pé

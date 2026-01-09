@@ -2,7 +2,7 @@
 date: 2020-01-03
 title: "Iridescente"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Uma certa princesa, muito adorava por todos os camponeses tinham um

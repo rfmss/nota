@@ -2,7 +2,7 @@
 date: 2020-03-30
 title: "Quarentena"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Daniela cresceu atendendo às expectativas da mãe: 

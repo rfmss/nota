@@ -2,7 +2,7 @@
 date: 2020-07-14
 title: "Atavismos: Vácuo"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Levar-se a sério não é um sinal de inteligência. As pessoas mais

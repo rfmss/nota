@@ -2,7 +2,7 @@
 date: 2020-11-21
 title: "Propósito"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Sentado aqui de onde estou, vejo a cidade. No ângulo que me encontro,

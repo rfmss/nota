@@ -2,7 +2,7 @@
 date: 2020-12-07
 title: "Petrificado"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Nunca mais andei sobre o meio-fio, receio de machucar o tornozelo e não

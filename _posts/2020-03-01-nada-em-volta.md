@@ -2,7 +2,7 @@
 date: 2020-03-01
 title: "Nada em Volta"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 A natureza selvagem insistia em avançar. Ataques severos contra o

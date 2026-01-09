@@ -2,7 +2,7 @@
 date: 2020-01-11
 title: "Diagrama de Ishikawa"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 O conceito de tecnologia pode ser traduzido como algo a facilitar a vida

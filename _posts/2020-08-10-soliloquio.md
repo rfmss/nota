@@ -2,7 +2,7 @@
 date: 2020-08-10
 title: "Solilóquio"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Sem ter a quem dar tchau, enterrou as chaves. Arrastou o corpo

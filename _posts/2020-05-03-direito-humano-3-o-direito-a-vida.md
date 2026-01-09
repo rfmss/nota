@@ -2,7 +2,7 @@
 date: 2020-05-03
 title: "Direito Humano 3: O Direito à&nbsp;Vida"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Não pedimos para nascer. No entanto, imploramos por alguns instantes a

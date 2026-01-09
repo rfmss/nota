@@ -2,7 +2,7 @@
 date: 2020-01-22
 title: "A Sala dos&nbsp;Retratos"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 As pedras haviam construído a cidade. Do chão, o cascalho que fazia as

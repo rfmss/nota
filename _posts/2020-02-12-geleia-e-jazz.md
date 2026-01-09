@@ -2,7 +2,7 @@
 date: 2020-02-12
 title: "Geleia e Jazz"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 César alcançou o telefone – o rosto se iluminou do azul – apertou os

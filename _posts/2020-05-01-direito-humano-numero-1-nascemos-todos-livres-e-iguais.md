@@ -2,7 +2,7 @@
 date: 2020-05-01
 title: "Direito Humano 1:  Nascemos Todos Livres e&nbsp;Iguais"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 No dia primeiro de janeiro do ano dois mil, trinta bebês nasceram no

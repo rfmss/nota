@@ -2,7 +2,7 @@
 date: 2020-04-05
 title: "Magnum Opus"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 O livro intitulado “A Peste”, de Albert Camus (lê-se “Cami”), voltou a

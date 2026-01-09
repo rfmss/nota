@@ -2,7 +2,7 @@
 date: 2020-09-28
 title: "Copo de Leite"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
     Da poeira ao barro um homem

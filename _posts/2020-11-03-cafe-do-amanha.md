@@ -2,7 +2,7 @@
 date: 2020-11-03
 title: "Surreal Esse Café"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 – Bom dia, amor. Quais as notícias?

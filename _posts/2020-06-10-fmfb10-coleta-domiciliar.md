@@ -2,7 +2,7 @@
 date: 2020-06-10
 title: "FMFB#10: Coleta Domiciliar"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Quem visitava a cidade, estranhava a falta de serviços básicos. Nada de

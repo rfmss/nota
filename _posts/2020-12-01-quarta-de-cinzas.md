@@ -2,7 +2,7 @@
 date: 2020-12-01
 title: "Quarta de Cinzas"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 O desejo é uma pasta anexada aos arquivos de um tempo no futuro. Para

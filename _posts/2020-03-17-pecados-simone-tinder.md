@@ -2,7 +2,7 @@
 date: 2020-03-17
 title: "Capítulo 1 &#8211; Luxúria: Simone&nbsp;(Tinder)."
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Se alguém a visse pela rua, diria que era modelo. Simone tinha a beleza

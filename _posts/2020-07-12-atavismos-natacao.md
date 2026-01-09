@@ -2,7 +2,7 @@
 date: 2020-07-12
 title: "Atavismos: Natação"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Imaginem o primeiro encontro com uma piscina. A água está ali, trajes de

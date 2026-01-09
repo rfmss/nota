@@ -2,7 +2,7 @@
 date: 2020-10-15
 title: "Para a professora,&nbsp;queijo!"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Anualmente, no mês de maio, os ingleses arremessam um queijo colina

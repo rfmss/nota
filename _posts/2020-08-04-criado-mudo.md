@@ -2,7 +2,7 @@
 date: 2020-08-04
 title: "Criado Mudo"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Durante um sonho percebeu algo familiar. A gaveta se abriu. Manu pegou o

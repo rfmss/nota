@@ -2,7 +2,7 @@
 date: 2020-07-31
 title: "Atavismos: Virada"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 No último dia do ano de dois mil e julho, as águas abandonaram a praia.

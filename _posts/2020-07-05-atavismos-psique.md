@@ -2,7 +2,7 @@
 date: 2020-07-05
 title: "Atavismos: Psiquê"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Circula à boca pequena algumas tragédias anunciadas. Apesar de um dos

@@ -2,7 +2,7 @@
 date: 2020-03-20
 title: "Capítulo 4 &#8211; Inveja: Soraia&nbsp;(Facebook)"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Do alto do morro dava para ver a rodoviária. Era a vista mais bela da

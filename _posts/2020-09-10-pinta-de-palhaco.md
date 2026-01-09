@@ -2,7 +2,7 @@
 date: 2020-09-10
 title: "Pinta de Palhaço"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
     Minininha nem te conto

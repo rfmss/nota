@@ -2,7 +2,7 @@
 date: 2020-02-18
 title: "Fogo-Fátuo"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Fabrício procurava pela sala inteira. Ela parece uma criança com tanta

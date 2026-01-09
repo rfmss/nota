@@ -2,7 +2,7 @@
 date: 2020-02-25
 title: "Melhores Amigas"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 – Tá pronta?

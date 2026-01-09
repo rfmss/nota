@@ -2,7 +2,7 @@
 date: 2020-05-15
 title: "Direito Humano 15: Direito a uma&nbsp;Nacionalidade"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Minutos antes de todos chegarem a BabaBoom, professor Clive sentou-se em

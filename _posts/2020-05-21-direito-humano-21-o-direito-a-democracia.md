@@ -2,7 +2,7 @@
 date: 2020-05-21
 title: "Direito Humano 21: O Direito à&nbsp;Democracia"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 O amor, clandestino, e a tecnologia de Émile e Trinity se uniram para

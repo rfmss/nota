@@ -2,7 +2,7 @@
 date: 2020-09-11
 title: "Dinorá, Dinorá&#8230;"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
     Qual o segredo da vida?

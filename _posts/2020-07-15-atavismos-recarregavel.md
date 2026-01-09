@@ -2,7 +2,7 @@
 date: 2020-07-15
 title: "Atavismos: Recarregável"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Estamos na era da tecnologia. Todo mundo sabe, mas se eu disser que

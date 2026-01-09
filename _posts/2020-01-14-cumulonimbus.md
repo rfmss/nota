@@ -2,7 +2,7 @@
 date: 2020-01-14
 title: "Cumulonimbus"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Um dia, voltando pela estrada do riacho, a pequena sentiu o vento

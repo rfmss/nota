@@ -2,7 +2,7 @@
 date: 2020-06-08
 title: "FMFB#8: Americanah"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Gloss, ok. Última conferida para ver se a avó está realmente dormindo.

@@ -2,7 +2,7 @@
 date: 2020-03-21
 title: "Capítulo 5 &#8211; Ganância: Claudio&nbsp;(LinkedIn)"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Claudio estava há tanto tempo no mercado financeiro que não percebeu a

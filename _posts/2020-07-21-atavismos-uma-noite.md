@@ -2,7 +2,7 @@
 date: 2020-07-21
 title: "Atavismos: Uma Noite"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Arrumando as coisas aqui pelo quarto, encontrei uma lâmpada. O gênio que

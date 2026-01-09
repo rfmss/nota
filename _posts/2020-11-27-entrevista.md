@@ -2,7 +2,7 @@
 date: 2020-11-27
 title: "Entrevista"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 – Tem certeza? É a mesma empresa do noticiário?

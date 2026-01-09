@@ -2,7 +2,7 @@
 date: 2020-12-04
 title: "Inferno Astral"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Quando tudo acontece no mesmo dia, e você está a poucos dias do seu

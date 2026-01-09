@@ -2,7 +2,7 @@
 date: 2020-03-04
 title: "Viagem Astral"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 A história a seguir, corre como se fosse inventada. De certa forma, foi.

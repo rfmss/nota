@@ -2,7 +2,7 @@
 date: 2020-02-09
 title: "Incidente Diplomático"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Nota: este conto participou de um concurso literário. Por esse motivo,

@@ -2,7 +2,7 @@
 date: 2020-10-05
 title: "Diálogos: Grupo"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 – O curso foi ótimo não acharam?

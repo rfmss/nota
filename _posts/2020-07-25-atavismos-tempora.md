@@ -2,7 +2,7 @@
 date: 2020-07-25
 title: "Atavismos: Temporã"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Tem dias que a noite é longa, iluminada. Anna saiu pela porta da

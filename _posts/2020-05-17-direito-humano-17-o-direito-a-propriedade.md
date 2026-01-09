@@ -2,7 +2,7 @@
 date: 2020-05-17
 title: "Direito Humano 17: O direito à&nbsp;Propriedade"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Sentado à beira da cascata de arquivos, Glitch e Lilás competiam. Ela,

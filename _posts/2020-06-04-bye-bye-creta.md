@@ -2,7 +2,7 @@
 date: 2020-06-04
 title: "FMFB#4: Bye Bye,&nbsp;Creta!"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Não pela primeira vez, um foguete branco invade o espaço, do outro. Uma

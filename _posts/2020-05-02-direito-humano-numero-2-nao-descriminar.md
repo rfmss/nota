@@ -2,7 +2,7 @@
 date: 2020-05-02
 title: "Direito Humano 2: Não&nbsp;Descriminar"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Nascemos livres e iguais. Somos perfeitos e parte de uma família única:
@@ -17,7 +17,7 @@ tempo?
 – Obrigado, então, não se importa se eu voltar com o carro do “meu pai”
 dirigindo pessimamente até o outro quarteirão. 
 – Não seja tolo. Preciso das peças. Vamos logo. 
-No ano de 2020, aquele terreno se tornará um grande ‘shopping’ onde os
+No ano de "2020", aquele terreno se tornará um grande ‘shopping’ onde os
 filhos de Lucas poderão ir ao cinema. Naquele ano, era apenas uma obra
 abandonada com um velho precisando de ajuda.
 – Eu sei que já conversamos sobre centenas de vezes, desde que você

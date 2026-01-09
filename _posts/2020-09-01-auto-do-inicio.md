@@ -2,7 +2,7 @@
 date: 2020-09-01
 title: "Auto do Início"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
     Apolônio, eu cheguei

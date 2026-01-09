@@ -2,7 +2,7 @@
 date: 2020-07-23
 title: "Atavismos: Dominique"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Quando nasceu, já estava tudo aí. Foi crescendo e notando que havia

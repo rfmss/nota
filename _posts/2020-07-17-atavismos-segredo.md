@@ -2,7 +2,7 @@
 date: 2020-07-17
 title: "Atavismos: Segredo"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 No mundo antigo de janeiro, ao atravessar um corredor de alguma

@@ -2,7 +2,7 @@
 date: 2020-11-16
 title: "Transcrição"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Instituto Reação: 1. Fala um pouquinho da trajetória de vocês e por que

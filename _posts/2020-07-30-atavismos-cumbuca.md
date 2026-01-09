@@ -2,7 +2,7 @@
 date: 2020-07-30
 title: "Atavismos: Cumbuca"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Os sumérios, os babilônicos, os egípcios, hebreus, fenícios, e, no

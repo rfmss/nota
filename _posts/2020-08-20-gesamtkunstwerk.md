@@ -2,7 +2,7 @@
 date: 2020-08-20
 title: "Gesamtkunstwerk"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Mas será que ninguém percebeu? Que a lona rasgou, o riso chorou e o pau

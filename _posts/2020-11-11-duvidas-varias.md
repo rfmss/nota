@@ -2,7 +2,7 @@
 date: 2020-11-11
 title: "Dúvidas várias"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Não é mais uma questão de será que eu vejo o mesmo azul que outro vê. É

@@ -2,7 +2,7 @@
 date: 2020-07-26
 title: "Atavismos: Melancia"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Gostaria que alguém pudesse ver aquele mar todo. Atmosfera limpa. Me

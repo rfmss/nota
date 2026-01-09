@@ -2,7 +2,7 @@
 date: 2020-06-20
 title: "FMFB#20: Coletiva"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Menina, e aquela polêmica de esconder os “likes” do “post”, para evitar

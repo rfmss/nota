@@ -2,7 +2,7 @@
 date: 2020-07-29
 title: "Atavismos: Hoje Não"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Mariana se levantou para olhar pela janela. O sol estava quase

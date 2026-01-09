@@ -2,7 +2,7 @@
 date: 2020-11-20
 title: "Sexta Preta"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Vou sentir falta do barulhinho da cadeira contra a ardósia. De tanto

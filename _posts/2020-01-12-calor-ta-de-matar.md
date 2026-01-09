@@ -2,7 +2,7 @@
 date: 2020-01-12
 title: "Calor tá de&nbsp;Matar"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Antes das oito da manhã de um domingo, as janelas já estavam

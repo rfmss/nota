@@ -2,7 +2,7 @@
 date: 2020-12-19
 title: "Primavera-&#8220;verão&#8221;"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Trancado em casa, talvez, minha teoria, a audição tenha melhorado. A

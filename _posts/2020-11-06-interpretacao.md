@@ -2,7 +2,7 @@
 date: 2020-11-06
 title: "Interpretação"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Não é possível encarar uma imagem de Freud pela rede sem fixar a atenção
@@ -10,7 +10,7 @@ naquela sobrancelha esquerda levantada, inquisitiva, “monalísica”.
 Então, eu passei a colecionar poses, miradas enigmáticas e expressões,
 durante minhas pesquisas, nesses rostos do passado.
 Aquele era o jeito de tirar uma foto antigamente. Em janeiro desse ano
-de 2020, fui visitar uma exposição de Chichico Alkmim (1886-1978) no
+de "2020", fui visitar uma exposição de Chichico Alkmim (1886-1978) no
 Palácio das Artes (BH) e percebi os mesmos olhares inquietos, de quem
 precisa ver o futuro pela novidade da câmera. Mas se tratavam de pessoas
 anônimas, que não apareceriam em buscas, senão atreladas à figura do

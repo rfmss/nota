@@ -2,7 +2,7 @@
 date: 2020-03-08
 title: "&#8220;Sororidariedade&#8221;"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Quando um escritor mata um personagem, ele está protegido pela ficção.

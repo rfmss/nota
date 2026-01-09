@@ -2,7 +2,7 @@
 date: 2020-04-11
 title: "Cortina Negra"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Quando ainda era um projeto, um dos lotes foi comprado pelos Kadafi, uma

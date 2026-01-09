@@ -2,7 +2,7 @@
 date: 2020-04-23
 title: "Coração Acelerado"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 A palavra projeto tem sido tão usada, que vou colocar um termo

@@ -2,7 +2,7 @@
 date: 2020-09-19
 title: "Caixa mágica"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
     Com a tevê brasileira

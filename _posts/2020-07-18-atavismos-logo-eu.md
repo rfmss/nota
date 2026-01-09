@@ -2,7 +2,7 @@
 date: 2020-07-18
 title: "Atavismos: Logo Eu"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Tamo aí, né? Momento de várias “live” bombando, pá e tal. Me inscrevi!

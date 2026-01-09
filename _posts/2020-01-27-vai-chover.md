@@ -2,7 +2,7 @@
 date: 2020-01-27
 title: "Vai Chover"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 A cidade havia recebido o alerta de chuva forte pelo rádio e tevê, eu

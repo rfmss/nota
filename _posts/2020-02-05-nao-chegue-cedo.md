@@ -2,7 +2,7 @@
 date: 2020-02-05
 title: "Não Chegue Cedo"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Achei que nunca mais iria me lembrar daqueles dias. Hoje pela manhã, uma

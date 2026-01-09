@@ -2,7 +2,7 @@
 date: 2020-10-28
 title: "Hominídeo"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Ao longo dos milênios, houve intensa movimentação do homem pela camada

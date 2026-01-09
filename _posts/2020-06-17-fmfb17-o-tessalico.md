@@ -2,7 +2,7 @@
 date: 2020-06-17
 title: "FMFB#17: O Tessálico"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Não posso afirmar se acontece com todos, se durmo tarde, por qualquer

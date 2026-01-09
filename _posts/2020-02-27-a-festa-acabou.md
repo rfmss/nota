@@ -2,7 +2,7 @@
 date: 2020-02-27
 title: "A Festa Acabou"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 A última coisa de que me lembro… não, peraí… Ah! sim. Me lembrei. Não,

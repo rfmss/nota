@@ -2,7 +2,7 @@
 date: 2020-12-13
 title: "Etiologia"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Ela sabe que vai mudar, mesmo assim projeta o caminho. Etapas a cumprir,

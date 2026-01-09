@@ -2,7 +2,7 @@
 date: 2020-02-28
 title: "Mantenha-me"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Vamos fingir, por um momento, que você está feliz. Daqui vejo bem. O que

@@ -2,7 +2,7 @@
 date: 2020-09-04
 title: "Sputchifre"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
     A Rússia saiu na frente

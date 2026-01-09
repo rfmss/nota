@@ -2,7 +2,7 @@
 date: 2020-01-02
 title: "Período Irlen"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Por que os ponteiros do relógio não se mexiam? O cheiro havia sumido.

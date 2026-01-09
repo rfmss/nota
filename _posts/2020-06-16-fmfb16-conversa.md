@@ -2,7 +2,7 @@
 date: 2020-06-16
 title: "FMFB#16: Conversa"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 É uma coisa peculiar essa de trocar ideias entre si. E quando o papo não

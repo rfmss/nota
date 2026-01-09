@@ -2,7 +2,7 @@
 date: 2020-06-18
 title: "FMFB#18: Lar-Anjo"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Note como é gostoso pronunciar a palavra tangerina: tan, ge, ri, na. Se

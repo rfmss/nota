@@ -2,7 +2,7 @@
 date: 2020-03-23
 title: "Capítulo 7 &#8211; Vaidade: Guilhermina&nbsp;(Instagram)"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 A escuridão foi vencendo aos poucos o dia com a ansiedade que os fatos

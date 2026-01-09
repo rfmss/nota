@@ -2,7 +2,7 @@
 date: 2020-06-24
 title: "FMFB#24: Entulho"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Elas sabem que vão se encontrar. Não sabem quando ou quem com quem. O

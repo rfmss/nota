@@ -2,7 +2,7 @@
 date: 2020-10-03
 title: "Diálogos: Rivais"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 -Não tem, serve do azul? 

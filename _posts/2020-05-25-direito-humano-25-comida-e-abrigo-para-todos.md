@@ -2,7 +2,7 @@
 date: 2020-05-25
 title: "Direito Humano 25: Comida e Abrigo para&nbsp;Todos"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 O lugar, de onde Radamés alçava voo em seu tapete, era conhecido pelos

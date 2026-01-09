@@ -2,7 +2,7 @@
 date: 2020-07-09
 title: "Atavismos: Movimento"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Em linhas grosserias e gerais, a própria história da literatura nos

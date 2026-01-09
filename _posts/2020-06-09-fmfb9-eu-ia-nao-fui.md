@@ -2,7 +2,7 @@
 date: 2020-06-09
 title: "FMFB#9: Eu ia, não&nbsp;fui"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Eu ia escrever, deu muita canseira. Queria fazer nada hoje, sabe? Mandar

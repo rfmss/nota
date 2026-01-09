@@ -2,7 +2,7 @@
 date: 2020-12-08
 title: "Flor-de-Lótus"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Percebi o espaço reduzido que ocupo nos lugares. Em festas não circulava

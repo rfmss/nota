@@ -2,7 +2,7 @@
 date: 2020-10-10
 title: "Pauta Esportiva"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Futebol é um esporte barato. Você consegue improvisar uma bola com

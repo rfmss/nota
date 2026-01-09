@@ -2,7 +2,7 @@
 date: 2020-09-15
 title: "Rólidei Cassino"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
     Hoje mora ela sozinha

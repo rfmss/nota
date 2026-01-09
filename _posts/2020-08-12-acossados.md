@@ -2,7 +2,7 @@
 date: 2020-08-12
 title: "Acossados"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Queimei o dedo, pensei nela. Tudo que vivemos e não entrou para os

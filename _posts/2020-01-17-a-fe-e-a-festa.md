@@ -2,7 +2,7 @@
 date: 2020-01-17
 title: "A Fé e a&nbsp;Festa"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 O tempo era remoto. No princípio, não era o verbo, era verde fechado,

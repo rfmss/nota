@@ -2,10 +2,10 @@
 date: 2020-06-19
 title: "FMFB#19: Ciência"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
-Chegou 2020, a grande pausa. Que azar o meu… século XXI, internet
+Chegou "2020", a grande pausa. Que azar o meu… século XXI, internet
 bombando, vários arquivos públicos e eu não consigo organizar a gaveta.
 Questões… Segundo a Teoria do Homem Sentado, “eu” sou o homem do futuro.
 O que intervém e constrói a tessitura do texto vivo. Mas vou fazer isso

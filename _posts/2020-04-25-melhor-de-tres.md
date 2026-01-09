@@ -2,7 +2,7 @@
 date: 2020-04-25
 title: "Melhor de Três"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 A programação na tevê mostrava um rapaz sendo eliminado de um reality. 

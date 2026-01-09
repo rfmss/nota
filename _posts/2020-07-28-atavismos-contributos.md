@@ -2,7 +2,7 @@
 date: 2020-07-28
 title: "Atavismos: Contributos"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Eu, olhando assim para as teclas, fico imaginando a festa que elas fazem

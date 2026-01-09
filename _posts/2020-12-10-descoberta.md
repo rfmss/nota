@@ -2,7 +2,7 @@
 date: 2020-12-10
 title: "Descoberta"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 O mundo gira, coisas, pessoas, fatos envelhecem, a memória falha, mas,

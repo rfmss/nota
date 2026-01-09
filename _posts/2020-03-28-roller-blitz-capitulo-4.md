@@ -2,7 +2,7 @@
 date: 2020-03-28
 title: "Roller Blitz &#8211; Capítulo&nbsp;4"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 -   Já podem tirar. Essa capa só protege lá fora, aqui não há projeção.

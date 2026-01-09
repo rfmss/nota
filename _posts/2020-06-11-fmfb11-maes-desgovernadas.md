@@ -2,7 +2,7 @@
 date: 2020-06-11
 title: "FMFB#11: Mães Desgovernadas"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Pois é, acordei hoje procurando meu preconceito escondido, velado em

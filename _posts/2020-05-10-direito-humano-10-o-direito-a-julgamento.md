@@ -2,7 +2,7 @@
 date: 2020-05-10
 title: "Direito Humano 10: O Direito a&nbsp;Julgamento"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 – Trinity, preciso de ajuda.

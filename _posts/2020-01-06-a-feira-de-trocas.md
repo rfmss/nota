@@ -2,7 +2,7 @@
 date: 2020-01-06
 title: "A Feira de&nbsp;Trocas"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Era manhã de quarta, e como todas as manhãs, seu Augusto preparou o café

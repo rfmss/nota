@@ -2,7 +2,7 @@
 date: 2020-05-06
 title: "Direito Humano 6: Você tem Direitos Onde Quer Que&nbsp;Vá"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 – E então, qual castigo melhor se encaixa na lição “você não tem ideia

@@ -2,7 +2,7 @@
 date: 2020-05-19
 title: "Direito Humano 19: Liberdade de&nbsp;Expressão"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 – COMA! 

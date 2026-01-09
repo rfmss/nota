@@ -2,7 +2,7 @@
 date: 2020-07-01
 title: "Atavismos: Táxi"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Sabe os romanos? … Aqueles mesmos. Sincretistas, cheios de impostos,

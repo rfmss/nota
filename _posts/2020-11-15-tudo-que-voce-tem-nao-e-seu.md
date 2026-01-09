@@ -2,7 +2,7 @@
 date: 2020-11-15
 title: "Tudo que você tem não é&nbsp;seu."
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Essa terra tem dono? A linguagem é esta “cola” que conecta os sujeitos e

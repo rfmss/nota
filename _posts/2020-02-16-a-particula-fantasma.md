@@ -2,7 +2,7 @@
 date: 2020-02-16
 title: "A Partícula Fantasma"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 “Mais uma manhã extraordinária em Involuntária. Prepare o seu Pod com um

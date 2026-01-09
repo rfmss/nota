@@ -2,7 +2,7 @@
 date: 2020-05-05
 title: "Direito Humano 5: Nenhuma&nbsp;Tortura"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Do lado de fora da casa, a vida acontecia imparcial. Fria, como toda

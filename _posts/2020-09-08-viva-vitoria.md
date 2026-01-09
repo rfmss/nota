@@ -2,7 +2,7 @@
 date: 2020-09-08
 title: "Viva Vitória"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
     Parabéns para Vitória

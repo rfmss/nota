@@ -2,7 +2,7 @@
 date: 2020-02-24
 title: "Adicional"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Vagner andava pela rua despreocupado. Atravessou na faixa, acenou para o

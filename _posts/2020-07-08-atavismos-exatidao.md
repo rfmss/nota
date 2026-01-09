@@ -2,7 +2,7 @@
 date: 2020-07-08
 title: "Atavismos: Exatidão"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Eu não sei se é verdade, mas dizem que quando alguém nos incomoda é

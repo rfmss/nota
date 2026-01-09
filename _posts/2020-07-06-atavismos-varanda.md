@@ -2,7 +2,7 @@
 date: 2020-07-06
 title: "Atavismos: Varanda"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Sentar e criar imagens com palavras pode se tornar um desafio para além

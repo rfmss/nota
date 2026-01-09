@@ -2,7 +2,7 @@
 date: 2020-07-03
 title: "Atavismos: Sofistas do&nbsp;Leblon"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Palavras são caras. Custa-me dedicar a prosódia ao objeto. Veja como é

@@ -2,7 +2,7 @@
 date: 2020-06-29
 title: "FMFB#29: Escolha Ruim"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 A fotografia vem antes da fotografia. Qualquer fotógrafo dirá isso a

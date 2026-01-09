@@ -2,7 +2,7 @@
 date: 2020-12-23
 title: "Descompensado"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Os quatro cavaleiros de um íntimo apocalipse deixaram em mim o

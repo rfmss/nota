@@ -2,7 +2,7 @@
 date: 2020-05-28
 title: "Direito Humano 28: Um Mundo Justo e&nbsp;Livre"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 Interrompidos por uma suposta nova fã, Radamés e Naya apenas sorriram.

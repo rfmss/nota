@@ -2,7 +2,7 @@
 date: 2020-03-27
 title: "Roller Blitz &#8211; Capítulo&nbsp;3"
 author: Raffael Massena
-tags: [FioDoVerso, 2020]
+tags: [FioDoVerso, "2020"]
 ---
 
 – Supostamente, foi há dois anos. Antes da grande descarga elétrica da
