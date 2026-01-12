@@ -1,6 +1,7 @@
 ---
 date: 2020-07-08
-title: "Atavismos: Exatidão"
+title: "Atavismos Exatidao"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

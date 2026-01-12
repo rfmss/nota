@@ -1,6 +1,7 @@
 ---
 date: 2020-03-14
-title: "Cortina de Fumaça"
+title: "Cortina De Fumaca"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

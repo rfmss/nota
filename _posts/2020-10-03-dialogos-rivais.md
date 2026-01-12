@@ -1,6 +1,7 @@
 ---
 date: 2020-10-03
-title: "Diálogos: Rivais"
+title: "Dialogos Rivais"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2020-10-20
-title: "Dispersão"
+title: "Dispersao"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

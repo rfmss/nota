@@ -1,6 +1,7 @@
 ---
 date: 2020-06-29
-title: "FMFB#29: Escolha Ruim"
+title: "Fmfb29 Escolha Ruim"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

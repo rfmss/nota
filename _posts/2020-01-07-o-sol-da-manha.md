@@ -1,6 +1,7 @@
 ---
 date: 2020-01-07
-title: "O Sol da&nbsp;Manhã"
+title: "O Sol Da Manha"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

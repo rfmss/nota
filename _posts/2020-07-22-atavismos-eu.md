@@ -1,6 +1,7 @@
 ---
 date: 2020-07-22
-title: "Atavismos: Eu"
+title: "Atavismos Eu"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

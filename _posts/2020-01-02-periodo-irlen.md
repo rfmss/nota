@@ -1,6 +1,7 @@
 ---
 date: 2020-01-02
-title: "Período Irlen"
+title: "Periodo Irlen"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2020-08-12
 title: "Acossados"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

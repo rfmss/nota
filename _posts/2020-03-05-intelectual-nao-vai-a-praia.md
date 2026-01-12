@@ -1,6 +1,7 @@
 ---
 date: 2020-03-05
-title: "Intelectual Não Vai à&nbsp;Praia"
+title: "Intelectual Nao Vai A Praia"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

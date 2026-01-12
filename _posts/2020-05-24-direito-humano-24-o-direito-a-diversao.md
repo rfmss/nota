@@ -1,6 +1,7 @@
 ---
 date: 2020-05-24
-title: "Direito Humano 24: O Direito à&nbsp;Diversão"
+title: "Direito Humano 24 O Direito A Diversao"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

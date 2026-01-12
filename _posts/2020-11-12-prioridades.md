@@ -1,6 +1,7 @@
 ---
 date: 2020-11-12
 title: "Prioridades"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2020-09-14
-title: "Eu saio, Nara"
+title: "Eu Saio Nara"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

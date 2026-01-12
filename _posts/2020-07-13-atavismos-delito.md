@@ -1,6 +1,7 @@
 ---
 date: 2020-07-13
-title: "Atavismos: Delito"
+title: "Atavismos Delito"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

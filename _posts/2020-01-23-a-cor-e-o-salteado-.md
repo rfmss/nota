@@ -1,6 +1,7 @@
 ---
 date: 2020-01-23
-title: "A Cor e o&nbsp;Salteado"
+title: "A Cor E O Salteado "
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

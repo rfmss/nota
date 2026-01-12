@@ -1,6 +1,7 @@
 ---
 date: 2020-05-31
-title: "FMFB#1: Alteridade"
+title: "Alteridade"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

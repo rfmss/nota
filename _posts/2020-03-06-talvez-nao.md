@@ -1,6 +1,7 @@
 ---
 date: 2020-03-06
-title: "Talvez, Não."
+title: "Talvez Nao"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

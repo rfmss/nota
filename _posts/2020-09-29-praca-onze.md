@@ -1,6 +1,7 @@
 ---
 date: 2020-09-29
-title: "Praça Onze"
+title: "Praca Onze"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

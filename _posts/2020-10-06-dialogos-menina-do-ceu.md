@@ -1,6 +1,7 @@
 ---
 date: 2020-10-06
-title: "Diálogos: Menina do&nbsp;Céu"
+title: "Dialogos Menina Do Ceu"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

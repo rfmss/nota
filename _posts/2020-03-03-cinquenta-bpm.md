@@ -1,6 +1,7 @@
 ---
 date: 2020-03-03
-title: "Cinquenta BPM"
+title: "Cinquenta Bpm"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

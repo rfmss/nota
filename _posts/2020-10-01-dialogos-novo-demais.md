@@ -1,6 +1,7 @@
 ---
 date: 2020-10-01
-title: "Diálogos: Novo Demais"
+title: "Dialogos Novo Demais"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

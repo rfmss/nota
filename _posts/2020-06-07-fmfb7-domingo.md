@@ -1,6 +1,7 @@
 ---
 date: 2020-06-07
-title: "FMFB#7: Domingo"
+title: "Fmfb7 Domingo"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

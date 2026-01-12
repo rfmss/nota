@@ -1,6 +1,7 @@
 ---
 date: 2020-01-31
-title: "Sentado à Beira da&nbsp;Colina"
+title: "Sentado A Beira Da Colina"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

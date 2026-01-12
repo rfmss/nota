@@ -1,6 +1,7 @@
 ---
 date: 2020-03-02
-title: "Fora de Casa"
+title: "Fora De Casa"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

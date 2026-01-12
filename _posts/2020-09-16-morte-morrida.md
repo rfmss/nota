@@ -1,6 +1,7 @@
 ---
 date: 2020-09-16
 title: "Morte Morrida"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

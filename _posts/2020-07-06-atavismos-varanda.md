@@ -1,6 +1,7 @@
 ---
 date: 2020-07-06
-title: "Atavismos: Varanda"
+title: "Atavismos Varanda"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

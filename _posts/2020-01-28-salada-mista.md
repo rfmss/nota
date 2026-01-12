@@ -1,6 +1,7 @@
 ---
 date: 2020-01-28
 title: "Salada Mista"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

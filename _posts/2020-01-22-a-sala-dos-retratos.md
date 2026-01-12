@@ -1,6 +1,7 @@
 ---
 date: 2020-01-22
-title: "A Sala dos&nbsp;Retratos"
+title: "A Sala Dos Retratos"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

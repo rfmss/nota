@@ -1,6 +1,7 @@
 ---
 date: 2020-07-24
-title: "Atavismos: Confronto"
+title: "Atavismos Confronto"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2020-09-05
-title: "Irmão Ribeirinho"
+title: "Irmao Ribeirinho"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

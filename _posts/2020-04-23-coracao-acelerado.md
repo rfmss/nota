@@ -1,6 +1,7 @@
 ---
 date: 2020-04-23
-title: "Coração Acelerado"
+title: "Coracao Acelerado"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

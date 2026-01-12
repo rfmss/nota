@@ -1,6 +1,7 @@
 ---
 date: 2020-01-21
-title: "A Cidade Inventada PT&nbsp;2"
+title: "A Cidade Inventada Pt 2"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

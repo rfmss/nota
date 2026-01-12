@@ -1,6 +1,7 @@
 ---
 date: 2020-03-29
-title: "Roller Blitz &#8211; Capítulo&nbsp;Final"
+title: "Roller Blitz Capitulo Final"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

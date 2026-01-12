@@ -1,6 +1,7 @@
 ---
 date: 2020-02-13
-title: "Forma e Função"
+title: "Forma E Funcao"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

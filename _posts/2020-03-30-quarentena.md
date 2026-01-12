@@ -1,6 +1,7 @@
 ---
 date: 2020-03-30
 title: "Quarentena"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

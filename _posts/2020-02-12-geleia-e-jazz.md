@@ -1,6 +1,7 @@
 ---
 date: 2020-02-12
-title: "Geleia e Jazz"
+title: "Geleia E Jazz"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

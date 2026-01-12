@@ -1,6 +1,7 @@
 ---
 date: 2020-02-19
-title: "O Passadiço"
+title: "O Passadico"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

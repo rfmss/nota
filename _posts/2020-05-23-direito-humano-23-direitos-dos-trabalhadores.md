@@ -1,6 +1,7 @@
 ---
 date: 2020-05-23
-title: "Direito Humano 23: Direitos dos&nbsp;Trabalhadores"
+title: "Direito Humano 23 Direitos Dos Trabalhadores"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

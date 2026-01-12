@@ -1,6 +1,7 @@
 ---
 date: 2020-09-27
-title: "Julieta Fugiu!"
+title: "Julieta Fugiu"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2020-04-11
 title: "Cortina Negra"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

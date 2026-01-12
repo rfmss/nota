@@ -1,6 +1,7 @@
 ---
 date: 2020-09-23
-title: "Pé Direito"
+title: "Pe Direito"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2020-05-20
-title: "Direito Humano 20: O Direito de se Reunir&nbsp;Publicamente"
+title: "Direito Humano 20 O Direito De Se Reunir Publicamente"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

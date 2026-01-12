@@ -1,6 +1,7 @@
 ---
 date: 2020-11-11
-title: "Dúvidas várias"
+title: "Duvidas Varias"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2020-04-26
 title: "Promessa Quebrada"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

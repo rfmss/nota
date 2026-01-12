@@ -1,6 +1,7 @@
 ---
 date: 2020-05-27
-title: "Direito Humano 27: Direitos de&nbsp;Autor"
+title: "Direito Humano 27 Direitos De Autor"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2020-09-22
-title: "Só o que a terra&nbsp;dá"
+title: "So O Que A Terra Da"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

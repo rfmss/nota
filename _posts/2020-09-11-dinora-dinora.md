@@ -1,6 +1,7 @@
 ---
 date: 2020-09-11
-title: "Dinorá, Dinorá&#8230;"
+title: "Dinora Dinora"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

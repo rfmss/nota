@@ -1,6 +1,7 @@
 ---
 date: 2020-06-01
-title: "FMFB#2: Fora Dentro"
+title: "Fmfb2 Fora Dentro"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

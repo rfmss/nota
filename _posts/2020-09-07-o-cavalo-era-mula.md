@@ -1,6 +1,7 @@
 ---
 date: 2020-09-07
-title: "O Cavalo era&nbsp;Mula"
+title: "O Cavalo Era Mula"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

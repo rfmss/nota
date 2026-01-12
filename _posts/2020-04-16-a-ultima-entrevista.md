@@ -1,6 +1,7 @@
 ---
 date: 2020-04-16
-title: "A última entrevista"
+title: "A Ultima Entrevista"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

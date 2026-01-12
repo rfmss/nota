@@ -1,6 +1,7 @@
 ---
 date: 2020-01-25
-title: "A Vitória de&nbsp;Samotrácia"
+title: "A Vitoria De Samotracia"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

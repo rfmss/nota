@@ -1,6 +1,7 @@
 ---
 date: 2020-05-28
-title: "Direito Humano 28: Um Mundo Justo e&nbsp;Livre"
+title: "Direito Humano 28 Um Mundo Justo E Livre"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

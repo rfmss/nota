@@ -1,6 +1,7 @@
 ---
 date: 2020-06-17
-title: "FMFB#17: O Tessálico"
+title: "Fmfb17 O Tessalico"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

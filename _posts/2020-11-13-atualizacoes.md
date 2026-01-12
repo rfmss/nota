@@ -1,6 +1,7 @@
 ---
 date: 2020-11-13
-title: "Atualizações"
+title: "Atualizacoes"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

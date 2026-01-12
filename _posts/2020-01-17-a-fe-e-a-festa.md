@@ -1,6 +1,7 @@
 ---
 date: 2020-01-17
-title: "A Fé e a&nbsp;Festa"
+title: "A Fe E A Festa"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

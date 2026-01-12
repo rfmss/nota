@@ -1,6 +1,7 @@
 ---
 date: 2020-12-01
-title: "Quarta de Cinzas"
+title: "Quarta De Cinzas"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

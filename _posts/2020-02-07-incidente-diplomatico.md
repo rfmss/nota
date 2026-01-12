@@ -1,6 +1,7 @@
 ---
 date: 2020-02-07
-title: "Incidente Diplomático"
+title: "Incidente Diplomatico"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

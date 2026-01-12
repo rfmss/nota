@@ -1,6 +1,7 @@
 ---
 date: 2020-05-05
-title: "Direito Humano 5: Nenhuma&nbsp;Tortura"
+title: "Direito Humano 5 Nenhuma Tortura"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

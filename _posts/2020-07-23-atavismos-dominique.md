@@ -1,6 +1,7 @@
 ---
 date: 2020-07-23
-title: "Atavismos: Dominique"
+title: "Atavismos Dominique"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

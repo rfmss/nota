@@ -1,6 +1,7 @@
 ---
 date: 2020-05-07
-title: "Direito Humano 7: Somos Todos Iguais Perante a&nbsp;Lei"
+title: "Direito Humano 7 Somos Todos Iguais Perante A Lei"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

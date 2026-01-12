@@ -1,6 +1,7 @@
 ---
 date: 2020-02-18
-title: "Fogo-Fátuo"
+title: "Fogo Fatuo"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

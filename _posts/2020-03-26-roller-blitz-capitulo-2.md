@@ -1,6 +1,7 @@
 ---
 date: 2020-03-26
-title: "Roller Blitz &#8211; Capítulo&nbsp;2"
+title: "Roller Blitz Capitulo 2"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

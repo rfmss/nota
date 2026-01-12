@@ -1,6 +1,7 @@
 ---
 date: 2020-03-23
-title: "Capítulo 7 &#8211; Vaidade: Guilhermina&nbsp;(Instagram)"
+title: "Vaidade Guilhermina Instagram"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

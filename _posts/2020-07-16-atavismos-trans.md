@@ -1,6 +1,7 @@
 ---
 date: 2020-07-16
-title: "Atavismos: Trans"
+title: "Atavismos Trans"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

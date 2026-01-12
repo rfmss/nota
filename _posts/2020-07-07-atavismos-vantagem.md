@@ -1,6 +1,7 @@
 ---
 date: 2020-07-07
-title: "Atavismos: Vantagem"
+title: "Atavismos Vantagem"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

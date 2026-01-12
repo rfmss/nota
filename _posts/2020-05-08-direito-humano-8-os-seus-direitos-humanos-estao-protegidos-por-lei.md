@@ -1,6 +1,7 @@
 ---
 date: 2020-05-08
-title: "Direito Humano 8: Os Seus Direitos Humanos Estão Protegidos por&nbsp;Lei"
+title: "Direito Humano 8 Os Seus Direitos Humanos Estao Protegidos Por Lei"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

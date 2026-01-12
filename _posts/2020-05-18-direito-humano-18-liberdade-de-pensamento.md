@@ -1,6 +1,7 @@
 ---
 date: 2020-05-18
-title: "Direito Humano 18: Liberdade de&nbsp;Pensamento"
+title: "Direito Humano 18 Liberdade De Pensamento"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

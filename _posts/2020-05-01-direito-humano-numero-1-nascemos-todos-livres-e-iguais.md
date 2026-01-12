@@ -1,6 +1,7 @@
 ---
 date: 2020-05-01
-title: "Direito Humano 1:  Nascemos Todos Livres e&nbsp;Iguais"
+title: "Direito Humano Numero 1 Nascemos Todos Livres E Iguais"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

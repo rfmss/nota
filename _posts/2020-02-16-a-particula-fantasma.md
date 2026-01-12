@@ -1,6 +1,7 @@
 ---
 date: 2020-02-16
-title: "A Partícula Fantasma"
+title: "A Particula Fantasma"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

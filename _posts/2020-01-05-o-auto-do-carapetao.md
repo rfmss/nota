@@ -1,6 +1,7 @@
 ---
 date: 2020-01-05
-title: "O auto do&nbsp;Carapetão"
+title: "O Auto Do Carapetao"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

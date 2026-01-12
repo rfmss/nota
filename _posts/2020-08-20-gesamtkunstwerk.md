@@ -1,6 +1,7 @@
 ---
 date: 2020-08-20
 title: "Gesamtkunstwerk"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

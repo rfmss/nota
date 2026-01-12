@@ -1,6 +1,7 @@
 ---
 date: 2020-05-04
-title: "Direito Humano 4: Nenhuma&nbsp;Escravatura"
+title: "Direito Humano Numero 4 Nenhuma Escravatura Juli"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

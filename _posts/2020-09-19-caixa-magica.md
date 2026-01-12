@@ -1,6 +1,7 @@
 ---
 date: 2020-09-19
-title: "Caixa mágica"
+title: "Caixa Magica"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

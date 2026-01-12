@@ -1,6 +1,7 @@
 ---
 date: 2020-09-03
-title: "Guardiões"
+title: "Guardioes"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

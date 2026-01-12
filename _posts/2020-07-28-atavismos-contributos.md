@@ -1,6 +1,7 @@
 ---
 date: 2020-07-28
-title: "Atavismos: Contributos"
+title: "Atavismos Contributos"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

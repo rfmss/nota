@@ -1,6 +1,7 @@
 ---
 date: 2020-05-13
-title: "Direito Humano 13: Liberdade para&nbsp;Locomover"
+title: "Direito Humano 13 Liberdade Para Locomover"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2020-12-23
 title: "Descompensado"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

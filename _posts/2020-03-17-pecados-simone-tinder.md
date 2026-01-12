@@ -1,6 +1,7 @@
 ---
 date: 2020-03-17
-title: "Capítulo 1 &#8211; Luxúria: Simone&nbsp;(Tinder)."
+title: "Pecados Simone Tinder"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

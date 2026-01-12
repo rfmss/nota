@@ -1,6 +1,7 @@
 ---
 date: 2020-09-15
-title: "Rólidei Cassino"
+title: "Rolidei Cassino"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

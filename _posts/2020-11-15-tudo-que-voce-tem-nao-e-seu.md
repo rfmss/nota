@@ -1,6 +1,7 @@
 ---
 date: 2020-11-15
-title: "Tudo que você tem não é&nbsp;seu."
+title: "Tudo Que Voce Tem Nao E Seu"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

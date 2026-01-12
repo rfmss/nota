@@ -1,6 +1,7 @@
 ---
 date: 2020-03-19
-title: "Capítulo 3 &#8211; Gula: Paula&nbsp;(iFood)"
+title: "Pecados Paula Ifood"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

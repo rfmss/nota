@@ -1,6 +1,7 @@
 ---
 date: 2020-01-09
 title: "Real Gabinete"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

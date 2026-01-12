@@ -1,6 +1,7 @@
 ---
 date: 2020-07-03
-title: "Atavismos: Sofistas do&nbsp;Leblon"
+title: "Sofistas Do Leblon"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

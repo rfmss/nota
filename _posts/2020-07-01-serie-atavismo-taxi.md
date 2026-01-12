@@ -1,6 +1,7 @@
 ---
 date: 2020-07-01
-title: "Atavismos: Táxi"
+title: "Serie Atavismo Taxi"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

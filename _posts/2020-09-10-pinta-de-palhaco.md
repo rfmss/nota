@@ -1,6 +1,7 @@
 ---
 date: 2020-09-10
-title: "Pinta de Palhaço"
+title: "Pinta De Palhaco"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

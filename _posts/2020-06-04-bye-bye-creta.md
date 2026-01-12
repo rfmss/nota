@@ -1,6 +1,7 @@
 ---
 date: 2020-06-04
-title: "FMFB#4: Bye Bye,&nbsp;Creta!"
+title: "Bye Bye Creta"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

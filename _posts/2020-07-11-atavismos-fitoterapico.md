@@ -1,6 +1,7 @@
 ---
 date: 2020-07-11
-title: "Atavismos: Fitoterápico"
+title: "Atavismos Fitoterapico"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

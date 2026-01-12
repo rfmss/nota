@@ -1,6 +1,7 @@
 ---
 date: 2020-06-16
-title: "FMFB#16: Conversa"
+title: "Fmfb16 Conversa"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

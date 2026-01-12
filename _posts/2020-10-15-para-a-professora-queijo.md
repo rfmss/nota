@@ -1,6 +1,7 @@
 ---
 date: 2020-10-15
-title: "Para a professora,&nbsp;queijo!"
+title: "Para A Professora Queijo"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2020-07-29
-title: "Atavismos: Hoje Não"
+title: "Atavismos Hoje Nao"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

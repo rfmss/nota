@@ -1,6 +1,7 @@
 ---
 date: 2020-02-27
 title: "A Festa Acabou"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

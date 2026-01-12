@@ -1,6 +1,7 @@
 ---
 date: 2020-02-21
-title: "A Separação"
+title: "A Separacao"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

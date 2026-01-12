@@ -1,6 +1,7 @@
 ---
 date: 2020-02-23
-title: "Com a Boca Bem&nbsp;Aberta"
+title: "Com A Boca Bem Aberta"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

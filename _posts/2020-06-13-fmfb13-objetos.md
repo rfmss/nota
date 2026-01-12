@@ -1,6 +1,7 @@
 ---
 date: 2020-06-13
-title: "FMFB#13: Objetos"
+title: "Fmfb13 Objetos"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

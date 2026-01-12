@@ -1,6 +1,7 @@
 ---
 date: 2020-01-15
-title: "Doença de Guardar"
+title: "Doenca De Guardar"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

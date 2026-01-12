@@ -1,6 +1,7 @@
 ---
 date: 2020-02-05
-title: "Não Chegue Cedo"
+title: "Nao Chegue Cedo"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

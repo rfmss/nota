@@ -1,6 +1,7 @@
 ---
 date: 2020-01-16
 title: "Pobre Geraldo"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

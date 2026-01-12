@@ -1,6 +1,7 @@
 ---
 date: 2020-05-15
-title: "Direito Humano 15: Direito a uma&nbsp;Nacionalidade"
+title: "Direito Humano 15 Direito A Uma Nacionalidade"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

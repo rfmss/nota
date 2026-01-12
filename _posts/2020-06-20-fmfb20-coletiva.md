@@ -1,6 +1,7 @@
 ---
 date: 2020-06-20
-title: "FMFB#20: Coletiva"
+title: "Fmfb20 Coletiva"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

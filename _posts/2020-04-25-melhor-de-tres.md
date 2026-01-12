@@ -1,6 +1,7 @@
 ---
 date: 2020-04-25
-title: "Melhor de Três"
+title: "Melhor De Tres"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2020-12-25
-title: "Cavalo de Pau"
+title: "Cavalo De Pau"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

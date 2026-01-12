@@ -1,6 +1,7 @@
 ---
 date: 2020-10-10
 title: "Pauta Esportiva"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

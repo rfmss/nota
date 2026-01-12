@@ -1,6 +1,7 @@
 ---
 date: 2020-05-10
-title: "Direito Humano 10: O Direito a&nbsp;Julgamento"
+title: "Direito Humano 10 O Direito A Julgamento"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

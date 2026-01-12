@@ -1,6 +1,7 @@
 ---
 date: 2020-11-20
 title: "Sexta Preta"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

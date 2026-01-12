@@ -1,6 +1,7 @@
 ---
 date: 2020-05-03
-title: "Direito Humano 3: O Direito à&nbsp;Vida"
+title: "Direito Humano 3 O Direito A Vida"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2020-05-25
-title: "Direito Humano 25: Comida e Abrigo para&nbsp;Todos"
+title: "Direito Humano 25 Comida E Abrigo Para Todos"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

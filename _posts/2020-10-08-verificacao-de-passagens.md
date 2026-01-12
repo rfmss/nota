@@ -1,6 +1,7 @@
 ---
 date: 2020-10-08
-title: "Verificação de Passagens!"
+title: "Verificacao De Passagens"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2020-10-28
-title: "Hominídeo"
+title: "Hominideo"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

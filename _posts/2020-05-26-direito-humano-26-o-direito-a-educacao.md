@@ -1,6 +1,7 @@
 ---
 date: 2020-05-26
-title: "Direito Humano 26: O Direito à&nbsp;Educação"
+title: "Direito Humano 26 O Direito A Educacao"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

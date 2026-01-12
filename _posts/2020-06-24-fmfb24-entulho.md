@@ -1,6 +1,7 @@
 ---
 date: 2020-06-24
-title: "FMFB#24: Entulho"
+title: "Fmfb24 Entulho"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

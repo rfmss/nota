@@ -1,6 +1,7 @@
 ---
 date: 2020-01-04
 title: "A Garota Peixe"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2020-06-08
-title: "FMFB#8: Americanah"
+title: "Fmfb8 Americanah"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2020-07-27
-title: "Atavismos: Aporia"
+title: "Atavismos Aporia"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

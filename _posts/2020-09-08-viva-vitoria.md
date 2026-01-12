@@ -1,6 +1,7 @@
 ---
 date: 2020-09-08
-title: "Viva Vitória"
+title: "Viva Vitoria"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

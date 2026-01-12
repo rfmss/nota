@@ -1,6 +1,7 @@
 ---
 date: 2020-06-15
-title: "FMFB#15: Perfeito"
+title: "Fmfb15 Perfeito"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

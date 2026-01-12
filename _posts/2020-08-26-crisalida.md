@@ -1,6 +1,7 @@
 ---
 date: 2020-08-26
-title: "Crisálida"
+title: "Crisalida"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2020-03-15
-title: "Grande Final"
+title: "A Grande Final"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2020-03-21
-title: "Capítulo 5 &#8211; Ganância: Claudio&nbsp;(LinkedIn)"
+title: "Pecados Claudio Linkedin"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

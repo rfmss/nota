@@ -1,6 +1,7 @@
 ---
 date: 2020-07-30
-title: "Atavismos: Cumbuca"
+title: "Atavismos Cumbuca"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

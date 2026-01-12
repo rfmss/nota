@@ -1,6 +1,7 @@
 ---
 date: 2020-08-10
-title: "Solilóquio"
+title: "Soliloquio"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2020-05-19
-title: "Direito Humano 19: Liberdade de&nbsp;Expressão"
+title: "Direito Humano 19 Liberdade De Expressao"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

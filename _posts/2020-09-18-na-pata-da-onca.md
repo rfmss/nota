@@ -1,6 +1,7 @@
 ---
 date: 2020-09-18
-title: "Na pata da&nbsp;onça"
+title: "Na Pata Da Onca"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

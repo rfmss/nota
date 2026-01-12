@@ -1,6 +1,7 @@
 ---
 date: 2020-08-03
 title: "A Passagem"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

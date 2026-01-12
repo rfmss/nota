@@ -1,6 +1,7 @@
 ---
 date: 2020-05-30
-title: "Direito Humano 30: Ninguém Pode Tirar–lhe os seus Direitos&nbsp;Humanos"
+title: "Direito Humano 30 Ninguem Pode Tirar Lhe Os Seus Direitos Humanos"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

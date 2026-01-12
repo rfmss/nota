@@ -1,6 +1,7 @@
 ---
 date: 2020-10-05
-title: "Diálogos: Grupo"
+title: "Dialogos Grupo"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

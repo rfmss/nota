@@ -1,6 +1,7 @@
 ---
 date: 2020-05-22
-title: "Direito Humano 22: Segurança&nbsp;Social"
+title: "Direito Humano 22 Seguranca Social"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2020-09-13
 title: "Peri Passu"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

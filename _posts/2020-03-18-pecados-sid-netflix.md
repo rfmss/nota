@@ -1,6 +1,7 @@
 ---
 date: 2020-03-18
-title: "Capítulo 2 &#8211; Preguiça: Sid&nbsp;(Netflix)"
+title: "Pecados Sid Netflix"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2020-01-01
-title: "Bug do Milênio"
+title: "Bug Do Milenio"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

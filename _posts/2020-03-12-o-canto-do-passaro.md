@@ -1,6 +1,7 @@
 ---
 date: 2020-03-12
-title: "O Canto do&nbsp;Pássaro"
+title: "O Canto Do Passaro"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2020-05-06
-title: "Direito Humano 6: Você tem Direitos Onde Quer Que&nbsp;Vá"
+title: "Direito Humano 6 Voce Tem Direitos Onde Quer Que Va"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2020-01-06
-title: "A Feira de&nbsp;Trocas"
+title: "A Feira De Trocas"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

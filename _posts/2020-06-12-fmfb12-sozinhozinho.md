@@ -1,6 +1,7 @@
 ---
 date: 2020-06-12
-title: "FMFB#12: Sozinhozinho"
+title: "Fmfb12 Sozinhozinho"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

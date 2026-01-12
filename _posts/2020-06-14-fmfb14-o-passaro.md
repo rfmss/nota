@@ -1,6 +1,7 @@
 ---
 date: 2020-06-14
-title: "FMFB#14: O Pássaro"
+title: "Fmfb14 O Passaro"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

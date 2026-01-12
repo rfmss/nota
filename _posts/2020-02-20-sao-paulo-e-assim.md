@@ -1,6 +1,7 @@
 ---
 date: 2020-02-20
-title: "São Paulo é&nbsp;assim"
+title: "Sao Paulo E Assim"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

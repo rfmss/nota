@@ -1,6 +1,7 @@
 ---
 date: 2020-07-31
-title: "Atavismos: Virada"
+title: "Atavismos Virada"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

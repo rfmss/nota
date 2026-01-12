@@ -1,6 +1,7 @@
 ---
 date: 2020-09-02
-title: "Lobo de Papel"
+title: "Lobo De Papel"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

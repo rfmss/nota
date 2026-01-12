@@ -1,6 +1,7 @@
 ---
 date: 2020-07-25
-title: "Atavismos: Temporã"
+title: "Atavismos Tempora"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

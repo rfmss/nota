@@ -1,6 +1,7 @@
 ---
 date: 2020-12-19
-title: "Primavera-&#8220;verão&#8221;"
+title: "Primavera Verao"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

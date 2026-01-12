@@ -1,6 +1,7 @@
 ---
 date: 2020-09-21
-title: "Sete bilhões de&nbsp;faróis"
+title: "Sete Bilhoes De Farois"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

@@ -1,6 +1,7 @@
 ---
 date: 2020-11-14
 title: "Contributos"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

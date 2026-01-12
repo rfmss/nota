@@ -1,6 +1,7 @@
 ---
 date: 2020-07-05
-title: "Atavismos: Psiquê"
+title: "Atavismos Psique"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

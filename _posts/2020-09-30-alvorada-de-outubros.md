@@ -1,6 +1,7 @@
 ---
 date: 2020-09-30
-title: "Alvorada de Outubros"
+title: "Alvorada De Outubros"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

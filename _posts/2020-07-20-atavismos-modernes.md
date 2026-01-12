@@ -1,6 +1,7 @@
 ---
 date: 2020-07-20
-title: "Atavismos:  &#8220;Modernes&#8221;"
+title: "Atavismos Modernes"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

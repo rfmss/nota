@@ -1,6 +1,7 @@
 ---
 date: 2020-03-20
-title: "Capítulo 4 &#8211; Inveja: Soraia&nbsp;(Facebook)"
+title: "Pecados Soraia Facebook"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

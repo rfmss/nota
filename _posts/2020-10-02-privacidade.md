@@ -1,6 +1,7 @@
 ---
 date: 2020-10-02
-title: "Diálogos: Privacidade"
+title: "Privacidade"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

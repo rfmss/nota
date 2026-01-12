@@ -1,6 +1,7 @@
 ---
 date: 2020-12-08
-title: "Flor-de-Lótus"
+title: "Flor De Lotus"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

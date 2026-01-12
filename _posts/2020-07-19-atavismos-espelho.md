@@ -1,6 +1,7 @@
 ---
 date: 2020-07-19
-title: "Atavismos: Espelho"
+title: "Atavismos Espelho"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

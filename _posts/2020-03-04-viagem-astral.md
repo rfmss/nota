@@ -1,6 +1,7 @@
 ---
 date: 2020-03-04
 title: "Viagem Astral"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

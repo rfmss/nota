@@ -1,6 +1,7 @@
 ---
 date: 2020-10-04
-title: "Diálogos: Pagode"
+title: "Dialogos Pagode"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

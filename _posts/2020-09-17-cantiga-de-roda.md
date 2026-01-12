@@ -1,6 +1,7 @@
 ---
 date: 2020-09-17
-title: "Cantiga de Roda"
+title: "Cantiga De Roda"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

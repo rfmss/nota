@@ -1,6 +1,7 @@
 ---
 date: 2020-10-21
-title: "Surpreso Inffinittamente"
+title: "Surpresa Boa"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

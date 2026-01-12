@@ -1,6 +1,7 @@
 ---
 date: 2020-09-12
-title: "Labirinto de Fauna"
+title: "Labirinto De Fauna"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

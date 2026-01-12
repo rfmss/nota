@@ -1,6 +1,7 @@
 ---
 date: 2020-07-21
-title: "Atavismos: Uma Noite"
+title: "Atavismos Uma Noite"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

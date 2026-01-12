@@ -1,6 +1,7 @@
 ---
 date: 2020-08-06
-title: "Hebdomadário"
+title: "Hebdomadario"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

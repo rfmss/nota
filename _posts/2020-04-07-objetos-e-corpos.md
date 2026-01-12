@@ -1,6 +1,7 @@
 ---
 date: 2020-04-07
-title: "Objetos e Corpos"
+title: "Objetos E Corpos"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

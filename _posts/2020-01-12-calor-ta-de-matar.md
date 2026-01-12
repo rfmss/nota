@@ -1,6 +1,7 @@
 ---
 date: 2020-01-12
-title: "Calor tá de&nbsp;Matar"
+title: "Calor Ta De Matar"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

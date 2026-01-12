@@ -1,6 +1,7 @@
 ---
 date: 2020-06-09
-title: "FMFB#9: Eu ia, não&nbsp;fui"
+title: "Fmfb9 Eu Ia Nao Fui"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

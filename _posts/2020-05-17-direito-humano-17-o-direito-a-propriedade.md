@@ -1,6 +1,7 @@
 ---
 date: 2020-05-17
-title: "Direito Humano 17: O direito à&nbsp;Propriedade"
+title: "Direito Humano 17 O Direito A Propriedade"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

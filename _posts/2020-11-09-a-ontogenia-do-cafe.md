@@ -1,6 +1,7 @@
 ---
 date: 2020-11-09
-title: "A Ontogenia do&nbsp;Café"
+title: "A Ontogenia Do Cafe"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

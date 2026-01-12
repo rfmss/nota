@@ -1,6 +1,7 @@
 ---
 date: 2020-01-11
-title: "Diagrama de Ishikawa"
+title: "Diagrama De Ishikawa"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

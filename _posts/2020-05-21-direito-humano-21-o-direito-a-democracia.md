@@ -1,6 +1,7 @@
 ---
 date: 2020-05-21
-title: "Direito Humano 21: O Direito à&nbsp;Democracia"
+title: "Direito Humano 21 O Direito A Democracia"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 

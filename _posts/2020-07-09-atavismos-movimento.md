@@ -1,6 +1,7 @@
 ---
 date: 2020-07-09
-title: "Atavismos: Movimento"
+title: "Atavismos Movimento"
+author: Rafa Mass
 tags: [FioDoVerso, "2020"]
 ---
 
