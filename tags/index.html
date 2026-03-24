@@ -1,0 +1,54 @@
+---
+layout: default
+title: Tags
+permalink: /tags/
+---
+<style>
+.tags-heading {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 11px;
+  letter-spacing: .18em;
+  text-transform: uppercase;
+  color: #888;
+  margin-bottom: 32px;
+}
+.tag-section { margin-bottom: 40px; }
+.tag-name {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 13px;
+  letter-spacing: .18em;
+  text-transform: uppercase;
+  color: #d97757;
+  margin-bottom: 12px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid #d4cfc5;
+}
+body.dark .tag-name { border-color: #333; }
+.tag-posts { list-style: none; }
+.tag-posts li { padding: 6px 0; }
+.tag-posts .post-date {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 11px;
+  color: #888;
+  margin-right: 10px;
+}
+</style>
+
+<p class="tags-heading">{{ site.tags.size }} tags · {{ site.posts.size }} textos</p>
+
+{% assign sorted_tags = site.tags | sort %}
+{% for tag in sorted_tags %}
+  {% assign tag_name = tag[0] %}
+  {% assign tag_posts = tag[1] %}
+  <div class="tag-section" id="{{ tag_name | slugify }}">
+    <div class="tag-name">{{ tag_name }} ({{ tag_posts.size }})</div>
+    <ul class="tag-posts">
+      {% for post in tag_posts %}
+        <li>
+          <span class="post-date">{{ post.date | date: "%d/%m/%Y" }}</span>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+{% endfor %}

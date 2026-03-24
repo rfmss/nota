@@ -3,6 +3,7 @@ tagline: Ficção & crônica
 description: Textos de Rafa Mass
 url: "https://rfmss.github.io"
 baseurl: "/nota"
+
 lang: pt-BR
 timezone: America/Sao_Paulo
 
@@ -28,3 +29,6 @@ exclude:
   - node_modules
   - tools
   - docs
+  - LICENSE
+  - "*.config.js"
+  - "package*.json"

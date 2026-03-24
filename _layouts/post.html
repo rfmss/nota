@@ -6,7 +6,11 @@ layout: default
     <h1 class="post-title">{{ page.title }}</h1>
     <div class="post-meta">
       <time>{{ page.date | date: "%d de %B de %Y" }}</time>
-      {% if page.tags %}<span>{{ page.tags | join: ", " }}</span>{% endif %}
+      {% if page.tags.size > 0 %}
+        {% for tag in page.tags %}
+          <a class="tag-link" href="{{ '/tags/' | relative_url }}#{{ tag | slugify }}">{{ tag }}</a>
+        {% endfor %}
+      {% endif %}
     </div>
   </header>
   <hr class="post-divider">

@@ -25,6 +25,7 @@ layout: default
     letter-spacing: -0.5px;
     margin-bottom: 6px;
   }
+  body.dark .home-title { color: #e8e0d4; }
   .home-sub {
     font-family: 'Courier New', Courier, monospace;
     font-size: 0.7rem;
@@ -32,6 +33,7 @@ layout: default
     letter-spacing: 0.1em;
     color: #555;
   }
+  body.dark .home-sub { color: #888; }
   .post-list {
     display: -webkit-flex;
     display: flex;
@@ -47,11 +49,10 @@ layout: default
     border-bottom: 1px solid rgba(0,0,0,0.06);
     color: #1a1a1a;
     text-decoration: none;
-    -webkit-transition: background 0.1s;
-    transition: background 0.1s;
   }
+  body.dark .post-item { border-color: rgba(255,255,255,0.06); color: #e8e0d4; }
   .post-item:first-child { border-top: 1px solid rgba(0,0,0,0.06); }
-  .post-item:active { background: rgba(0,0,0,0.03); }
+  body.dark .post-item:first-child { border-top-color: rgba(255,255,255,0.06); }
   .post-item-date {
     font-family: 'Courier New', Courier, monospace;
     font-size: 0.7rem;
@@ -68,6 +69,7 @@ layout: default
     line-height: 1.3;
     margin-left: 16px;
   }
+  body.dark .post-item-title { color: #e8e0d4; }
   .post-item:hover .post-item-title,
   .post-item:active .post-item-title { color: #d97757; }
 </style>
