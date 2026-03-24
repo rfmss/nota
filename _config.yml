@@ -1,116 +1,15 @@
-# The Site Configuration
-
-# Import the theme
-theme: jekyll-theme-chirpy
-
-# Idioma do site (Mudei para Português do Brasil)
+title: Notas do Rafa
+tagline: Ficção & crônica
+description: Textos de Rafa Mass
+url: "https://rfmss.github.io"
+baseurl: "/nota"
 lang: pt-BR
-
-# Fuso Horário
 timezone: America/Sao_Paulo
 
-# Configurações de SEO e Títulos
-# ↓ --------------------------
-
-title: Notas do Rafa # Título principal
-tagline: LLM whisperer | TOT editor # Subtítulo
-
-description: >-
-  O blog pessoal do Rafa Mass. Tecnologia, automação e notas do sistema ZEL OS.
-
-# URL Principal (Sem barra no final)
-url: "https://rfmss.undo.it"
-
-github:
-  username: rfmss
-
-social:
-  # Seu nome no rodapé
+author:
   name: Rafa Mass
-  email: rfmss@disr.it
-  links:
-    # Seus Links Principais
-    - https://github.com/rfmss
-    - https://wandering.shop/@rafa
-    - https://hachyderm.io/@rfmss
-    - https://bsky.app/profile/rfmss.undo.it
-    - https://rfmss.undo.it/
 
-# Web Analytics (Deixei vazio por enquanto)
-analytics:
-  google:
-    id:
-  goatcounter:
-    id:
-  umami:
-    id:
-    domain:
-  matomo:
-    id:
-    domain:
-  cloudflare:
-    id:
-  fathom:
-    id:
-
-# Configurações de Visualização
-pageviews:
-  provider:
-
-# Modo de Cor (Travado no Escuro como você gostou)
-theme_mode: dark
-
-# CDN (Deixar vazio)
-cdn:
-
-# Avatar (Se quiser colocar uma foto depois, coloque o caminho aqui)
-avatar: /assets/img/avatar.png
-
-# Imagem de preview social
-social_preview_image:
-
-# Índice nos posts (TOC)
-toc: true
-
-# Comentários (Desativado por enquanto para limpar)
-comments:
-  provider:
-
-# Arquivos estáticos
-assets:
-  self_host:
-    enabled:
-    env:
-
-# PWA (Site instalável)
-pwa:
-  enabled: true
-  cache:
-    enabled: true
-    deny_paths:
-
-paginate: 10
-
-# A PASTA ONDE O BLOG MORA (Isso é o mais importante pro CSS)
-baseurl: "/nota"
-
-# ------------ Configurações Técnicas (Não mexer abaixo) ------------------
-
-kramdown:
-  footnote_backlink: "&#8617;&#xfe0e;"
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    css_class: highlight
-    span:
-      line_numbers: false
-    block:
-      line_numbers: true
-      start_line: 1
-
-collections:
-  tabs:
-    output: true
-    sort_by: order
+permalink: /posts/:title/
 
 defaults:
   - scope:
@@ -118,48 +17,14 @@ defaults:
       type: posts
     values:
       layout: post
-      comments: true
-      toc: true
-      permalink: /posts/:title/
-  - scope:
-      path: _drafts
-    values:
-      comments: false
-  - scope:
-      path: ""
-      type: tabs
-    values:
-      layout: page
-      permalink: /:title/
-
-sass:
-  style: compressed
-
-compress_html:
-  clippings: all
-  comments: all
-  endings: all
-  profile: false
-  blanklines: false
-  ignore:
-    envs: [development]
+      author: Rafa Mass
 
 exclude:
   - "*.gem"
   - "*.gemspec"
-  - docs
-  - tools
   - README.md
-  - LICENSE
-  - purgecss.js
-  - "*.config.js"
-  - "package*.json"
-
-jekyll-archives:
-  enabled: [categories, tags]
-  layouts:
-    category: category
-    tag: tag
-  permalinks:
-    tag: /tags/:name/
-    category: /categories/:name/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - tools
+  - docs
