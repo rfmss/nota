@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <title>{% if page.title %}{{ page.title }} — {% endif %}Notas do Rafa</title>
+  <style>
+    *, *:before, *:after { box-sizing: border-box; margin: 0; padding: 0; }
+    html {
+      font-size: 18px;
+      background: #f4efe6;
+    }
+    body {
+      font-family: Georgia, 'Times New Roman', serif;
+      color: #1a1a1a;
+      background: #f4efe6;
+      min-height: 100vh;
+      padding: 0;
+      margin: 0;
+      -webkit-text-size-adjust: 100%;
+    }
+    a { color: #d97757; text-decoration: none; }
+    a:hover, a:active { text-decoration: underline; }
+
+    /* ── Header ── */
+    .site-header {
+      background: #b2c9c3;
+      padding: 20px 24px;
+      border-bottom: 1px solid rgba(0,0,0,0.08);
+    }
+    .site-header-inner {
+      max-width: 680px;
+      margin: 0 auto;
+      display: -webkit-flex;
+      display: flex;
+      -webkit-align-items: baseline;
+      align-items: baseline;
+      -webkit-justify-content: space-between;
+      justify-content: space-between;
+      -webkit-flex-wrap: wrap;
+      flex-wrap: wrap;
+    }
+    .site-header-inner > * + * { margin-left: 16px; }
+    .site-name {
+      font-family: Georgia, 'Times New Roman', serif;
+      font-size: 1.3rem;
+      font-weight: 700;
+      color: #1a1a1a;
+      letter-spacing: -0.3px;
+    }
+    .site-tagline {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 0.65rem;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: #555;
+    }
+
+    /* ── Main ── */
+    .site-main {
+      max-width: 680px;
+      margin: 0 auto;
+      padding: 40px 24px 80px;
+    }
+
+    /* ── Footer ── */
+    .site-footer {
+      border-top: 1px solid rgba(0,0,0,0.08);
+      padding: 20px 24px;
+      text-align: center;
+    }
+    .site-footer-inner {
+      max-width: 680px;
+      margin: 0 auto;
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 0.65rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #999;
+    }
+
+    /* ── Post content ── */
+    .post-header { margin-bottom: 36px; }
+    .post-title {
+      font-family: Georgia, 'Times New Roman', serif;
+      font-size: 2rem;
+      font-weight: 700;
+      color: #1a1a1a;
+      line-height: 1.2;
+      letter-spacing: -0.5px;
+      margin-bottom: 10px;
+    }
+    .post-meta {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #555;
+    }
+    .post-meta > * + * { margin-left: 14px; }
+    .post-divider {
+      border: none;
+      border-top: 1px solid rgba(0,0,0,0.12);
+      margin: 32px 0;
+    }
+    .post-body {
+      font-size: 1.05rem;
+      line-height: 1.8;
+      color: #1a1a1a;
+    }
+    .post-body p { margin-bottom: 1.4em; }
+    .post-body p:last-child { margin-bottom: 0; }
+    .post-body em { font-style: italic; }
+    .post-body strong { font-weight: 700; }
+    .post-body blockquote {
+      border-left: 3px solid #d97757;
+      margin: 1.5em 0;
+      padding: 4px 0 4px 20px;
+      color: #555;
+      font-style: italic;
+    }
+    .post-nav {
+      margin-top: 48px;
+      padding-top: 24px;
+      border-top: 1px solid rgba(0,0,0,0.08);
+      display: -webkit-flex;
+      display: flex;
+      -webkit-justify-content: space-between;
+      justify-content: space-between;
+      -webkit-flex-wrap: wrap;
+      flex-wrap: wrap;
+    }
+    .post-nav > * { margin-bottom: 8px; }
+    .post-nav a {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: #d97757;
+    }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="site-header-inner">
+      <a href="{{ '/' | relative_url }}" class="site-name">Notas do Rafa</a>
+      <span class="site-tagline">{{ site.tagline }}</span>
+    </div>
+  </header>
+
+  <main class="site-main">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="site-footer-inner">Rafa Mass &mdash; rfmss.github.io</div>
+  </footer>
+</body>
+</html>
