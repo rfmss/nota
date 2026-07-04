@@ -122,7 +122,9 @@
       font-size: 1rem;
       line-height: 1.75;
     }
-    .post-body p { margin-bottom: 1.35em; }
+    /* preserva as quebras originais do texto datilografado
+       (diálogos com travessão, versos, respiros) */
+    .post-body p { margin-bottom: 1.35em; white-space: pre-line; }
     .post-body p:last-child { margin-bottom: 0; }
     .post-body em { font-style: italic; }
     .post-body strong { font-weight: 700; }
