@@ -7,209 +7,208 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="apple-mobile-web-app-title" content="nota">
   <meta name="mobile-web-app-capable" content="yes">
-  <meta name="theme-color" content="#8fb3ae">
+  <meta name="theme-color" content="#e9e6df">
+  <meta name="description" content="Notas do Rafa — diário de sobrevivência escrito durante a pandemia de 2020, em 366 cenas. Extraído do blog Fio do Verso.">
   <link rel="apple-touch-icon-precomposed" sizes="180x180" href="/icon-sage.png">
   <link rel="apple-touch-icon" sizes="180x180" href="/icon-sage.png">
-  <script>(function(){var P=[{n:'terra',h:'#cd7b5f'},{n:'olive',h:'#6e7a4e'},{n:'rose',h:'#c4708a'},{n:'lavender',h:'#9b8fc4'},{n:'blue',h:'#6b9ab8'},{n:'sage',h:'#8fb3ae'}];var c;try{var s=localStorage.getItem('rfmss_pal');if(s)c=JSON.parse(s);}catch(x){}if(!c)c=P[Math.floor(Math.random()*P.length)];var q=document.querySelector.bind(document);var e;e=q('meta[name="theme-color"]');if(e)e.setAttribute('content',c.h);e=q('link[rel="apple-touch-icon-precomposed"]');if(e)e.setAttribute('href','/icon-'+c.n+'.png');e=q('link[rel="apple-touch-icon"]');if(e)e.setAttribute('href','/icon-'+c.n+'.png');var s=document.createElement('style');s.innerHTML='html,body,.site-header{background:'+c.h+'!important}';document.head.appendChild(s);window._pal=c;})();</script>
   <script data-goatcounter="https://nota.goatcounter.com/count"
           async src="//gc.zgo.at/count.js"></script>
   <title>{% if page.title %}{{ page.title }} — {% endif %}Notas do Rafa</title>
   <style>
+    @import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400&display=swap');
+
     *, *:before, *:after { box-sizing: border-box; margin: 0; padding: 0; }
-    html { font-size: 18px; background: #f4efe6; }
+
+    /* ── Mesa de leitura (cinza neutro, como o print) ── */
+    html { font-size: 17px; background: #d6d6d3; }
     body {
-      font-family: Georgia, 'Times New Roman', serif;
-      color: #1a1a1a;
-      background: #f4efe6;
+      font-family: 'Courier Prime', 'Courier New', Courier, monospace;
+      color: #111;
+      background: #d6d6d3;
       min-height: 100vh;
       -webkit-text-size-adjust: 100%;
-      -webkit-transition: background 0.2s, color 0.2s;
       transition: background 0.2s, color 0.2s;
     }
-    body.dark { background: #1a1a1a; color: #e8e0d4; }
-    a { color: #d97757; text-decoration: none; }
+    body.dark { background: #101010; }
+    a { color: inherit; }
     a:hover, a:active { text-decoration: underline; }
-    body.dark a { color: #e8956e; }
 
-    /* ── Header ── */
-    .site-header {
-      background: #b2c9c3;
-      padding: 20px 24px;
-      border-bottom: 1px solid rgba(0,0,0,0.08);
-    }
-    body.dark .site-header { background: #2a3a36; border-color: rgba(255,255,255,0.06); }
+    /* ── Header discreto (fora da folha) ── */
+    .site-header { padding: 18px 24px 0; }
     .site-header-inner {
-      max-width: 680px;
+      max-width: 720px;
       margin: 0 auto;
-      display: -webkit-flex;
       display: flex;
-      -webkit-align-items: baseline;
       align-items: baseline;
-      -webkit-justify-content: space-between;
       justify-content: space-between;
-      -webkit-flex-wrap: wrap;
       flex-wrap: wrap;
-    }
-    .site-header-inner > * + * { margin-left: 16px; }
-    .site-name {
-      font-family: Georgia, 'Times New Roman', serif;
-      font-size: 1.3rem;
-      font-weight: 700;
-      color: #1a1a1a;
-      letter-spacing: -0.3px;
-    }
-    body.dark .site-name { color: #e8e0d4; }
-    .site-nav {
-      display: -webkit-flex;
-      display: flex;
-      -webkit-align-items: center;
-      align-items: center;
-    }
-    .site-nav a {
-      font-family: 'Courier New', Courier, monospace;
-      font-size: 0.65rem;
+      gap: 8px 16px;
+      font-size: 0.72rem;
+      letter-spacing: 0.12em;
       text-transform: uppercase;
-      letter-spacing: 0.1em;
-      color: #555;
-      margin-left: 16px;
+      color: #6d6a61;
     }
-    body.dark .site-nav a { color: #aaa; }
+    body.dark .site-header-inner { color: #8a867a; }
+    .site-name { font-weight: 700; text-decoration: none; }
+    .site-nav { display: flex; align-items: center; gap: 16px; }
+    .site-nav a { text-decoration: none; }
     #dark-toggle {
-      font-family: 'Courier New', Courier, monospace;
-      font-size: 0.6rem;
+      font-family: inherit;
+      font-size: 0.66rem;
       letter-spacing: 0.12em;
       text-transform: uppercase;
       background: none;
-      border: 1px solid #555;
-      color: #555;
+      border: 1px solid currentColor;
+      color: inherit;
       padding: 3px 8px;
       cursor: pointer;
-      margin-left: 16px;
     }
-    body.dark #dark-toggle { border-color: #aaa; color: #aaa; }
 
-    /* ── Main ── */
+    /* ── A folha do roteiro ── */
     .site-main {
-      max-width: 680px;
-      margin: 0 auto;
-      padding: 40px 24px 80px;
+      max-width: 720px;
+      margin: 22px auto 60px;
+      padding: 0 12px;
+    }
+    .sheet {
+      background: #fff;
+      color: #111;
+      box-shadow: 0 1px 2px rgba(0,0,0,0.15), 0 12px 34px rgba(0,0,0,0.14);
+      /* margens de roteiro: esquerda maior (encadernação), como no padrão */
+      padding: clamp(36px, 7vw, 64px) clamp(22px, 7vw, 58px) clamp(44px, 8vw, 72px) clamp(26px, 9vw, 86px);
+      min-height: 80vh;
+      position: relative;
+    }
+    body.dark .sheet {
+      background: #191919;
+      color: #ddd8cc;
+      box-shadow: 0 12px 34px rgba(0,0,0,0.6);
+    }
+    /* número de página no canto superior direito */
+    .page-num {
+      position: absolute;
+      top: clamp(14px, 3vw, 26px);
+      right: clamp(18px, 5vw, 46px);
+      font-size: 0.85rem;
     }
 
-    /* ── Footer ── */
-    .site-footer {
-      border-top: 1px solid rgba(0,0,0,0.08);
-      padding: 20px 24px;
-      text-align: center;
-    }
-    body.dark .site-footer { border-color: rgba(255,255,255,0.06); }
-    .site-footer-inner {
-      max-width: 680px;
-      margin: 0 auto;
-      font-family: 'Courier New', Courier, monospace;
-      font-size: 0.65rem;
-      text-transform: uppercase;
-      letter-spacing: 0.08em;
-      color: #999;
-    }
-
-    /* ── Post content ── */
-    .post-header { margin-bottom: 36px; }
-    .post-title {
-      font-family: Georgia, 'Times New Roman', serif;
-      font-size: 2rem;
-      font-weight: 700;
-      color: #1a1a1a;
-      line-height: 1.2;
-      letter-spacing: -0.5px;
-      margin-bottom: 10px;
-    }
-    body.dark .post-title { color: #e8e0d4; }
-    .post-meta {
-      font-family: 'Courier New', Courier, monospace;
-      font-size: 0.7rem;
-      text-transform: uppercase;
-      letter-spacing: 0.08em;
-      color: #555;
-      display: -webkit-flex;
+    /* ── Tipografia de roteiro ── */
+    .slugline {
       display: flex;
-      -webkit-align-items: center;
-      align-items: center;
-      -webkit-flex-wrap: wrap;
-      flex-wrap: wrap;
-    }
-    body.dark .post-meta { color: #888; }
-    .post-meta > * + * { margin-left: 14px; }
-    .tag-link {
-      color: #d97757;
-      font-family: 'Courier New', Courier, monospace;
-      font-size: 0.65rem;
+      align-items: baseline;
+      gap: 3ch;
+      font-weight: 700;
       text-transform: uppercase;
-      letter-spacing: 0.08em;
+      letter-spacing: 0.02em;
+      font-size: 0.98rem;
+      margin-top: 10px;
     }
-    .tag-link:hover { text-decoration: underline; }
-    .post-divider {
-      border: none;
-      border-top: 1px solid rgba(0,0,0,0.12);
-      margin: 32px 0;
+    .slugline .slug-num-r { margin-left: auto; }
+    .post-meta {
+      font-size: 0.78rem;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: #555;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 14px;
+      margin-top: 10px;
     }
-    body.dark .post-divider { border-color: rgba(255,255,255,0.1); }
+    body.dark .post-meta { color: #999; }
+    .tag-link { text-decoration: none; }
+    .post-divider { border: none; margin: 22px 0; }
+
     .post-body {
-      font-size: 1.05rem;
-      line-height: 1.8;
-      color: #1a1a1a;
+      font-size: 1rem;
+      line-height: 1.75;
     }
-    body.dark .post-body { color: #e8e0d4; }
-    .post-body p { margin-bottom: 1.4em; }
+    .post-body p { margin-bottom: 1.35em; }
     .post-body p:last-child { margin-bottom: 0; }
     .post-body em { font-style: italic; }
     .post-body strong { font-weight: 700; }
     .post-body blockquote {
-      border-left: 3px solid #d97757;
-      margin: 1.5em 0;
-      padding: 4px 0 4px 20px;
-      color: #555;
+      margin: 1.6em 2ch;
+      padding: 0;
       font-style: italic;
+      color: #55524a;
     }
-    body.dark .post-body blockquote { color: #aaa; }
+    body.dark .post-body blockquote { color: #a5a093; }
+    .post-body hr {
+      border: none;
+      text-align: center;
+      margin: 1.8em 0;
+    }
+    .post-body hr::after {
+      content: "* * *";
+      letter-spacing: 0.6em;
+      color: #6d6a61;
+    }
+
+    /* ── Transições de corte ── */
     .post-nav {
-      margin-top: 48px;
-      padding-top: 24px;
-      border-top: 1px solid rgba(0,0,0,0.08);
-      display: -webkit-flex;
+      margin-top: 56px;
       display: flex;
-      -webkit-justify-content: space-between;
       justify-content: space-between;
-      -webkit-flex-wrap: wrap;
       flex-wrap: wrap;
-    }
-    body.dark .post-nav { border-color: rgba(255,255,255,0.06); }
-    .post-nav > * { margin-bottom: 8px; }
-    .post-nav a {
-      font-family: 'Courier New', Courier, monospace;
-      font-size: 0.75rem;
+      gap: 10px;
+      font-size: 0.78rem;
+      font-weight: 700;
       text-transform: uppercase;
       letter-spacing: 0.06em;
-      color: #d97757;
     }
+    .post-nav a { text-decoration: none; }
+    .post-nav a:hover { text-decoration: underline; }
+    .post-nav .cut-label { display: block; font-weight: 400; font-size: 0.66rem; color: #6d6a61; margin-bottom: 2px; }
+    body.dark .post-nav .cut-label { color: #8a867a; }
+    .post-nav .next { text-align: right; margin-left: auto; }
+
+    .fade-out {
+      text-align: right;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      font-size: 0.85rem;
+      margin-top: 48px;
+    }
+
+    /* ── Rodapé ── */
+    .site-footer { padding: 0 24px 46px; text-align: center; }
+    .site-footer-inner {
+      max-width: 720px;
+      margin: 0 auto;
+      font-size: 0.68rem;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: #6d6a61;
+      line-height: 2;
+    }
+    body.dark .site-footer-inner { color: #8a867a; }
+    .site-footer-inner a { text-decoration: underline; text-underline-offset: 3px; }
   </style>
 </head>
 <body>
   <header class="site-header">
     <div class="site-header-inner">
       <a href="{{ '/' | relative_url }}" class="site-name">Notas do Rafa</a>
-      <div class="site-nav">
+      <nav class="site-nav">
+        <a href="https://rafa.pro.br/" title="Voltar pro rafa.pro.br">&larr; rafa.pro.br</a>
         <a href="{{ '/tags/' | relative_url }}">tags</a>
-        <button id="dark-toggle" onclick="toggleDark()">dark</button>
-      </div>
+        <button id="dark-toggle" onclick="toggleDark()">noite</button>
+      </nav>
     </div>
   </header>
 
   <main class="site-main">
-    {{ content }}
+    <div class="sheet">
+      {{ content }}
+    </div>
   </main>
 
   <footer class="site-footer">
-    <div class="site-footer-inner">Rafa Mass &mdash; rfmss.github.io</div>
+    <div class="site-footer-inner">
+      escrito por Rafa Mass durante a pandemia de 2020<br>
+      extraído do blog <a href="https://fiodoverso.wordpress.com/" rel="noopener noreferrer">fiodoverso.wordpress.com</a>
+    </div>
   </footer>
   <script>
   (function() {
@@ -217,18 +216,18 @@
     if (stored === 'dark') {
       document.body.className = 'dark';
       var btn = document.getElementById('dark-toggle');
-      if (btn) btn.textContent = 'claro';
+      if (btn) btn.textContent = 'dia';
     }
   })();
   function toggleDark() {
     var btn = document.getElementById('dark-toggle');
     if (document.body.className === 'dark') {
       document.body.className = '';
-      btn.textContent = 'dark';
+      btn.textContent = 'noite';
       localStorage.setItem('rfmss-dark', 'light');
     } else {
       document.body.className = 'dark';
-      btn.textContent = 'claro';
+      btn.textContent = 'dia';
       localStorage.setItem('rfmss-dark', 'dark');
     }
   }

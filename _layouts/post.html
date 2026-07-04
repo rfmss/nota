@@ -2,13 +2,18 @@
 layout: default
 ---
 <article>
+  <div class="page-num">{{ page.date | date: "%j" }}</div>
   <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
+    <div class="slugline">
+      <span>{{ page.date | date: "%j" }}.</span>
+      <span>{{ page.title | upcase }}. {{ page.date | date: "%d.%m.%Y" }}</span>
+      <span class="slug-num-r">{{ page.date | date: "%j" }}</span>
+    </div>
     <div class="post-meta">
-      <time>{{ page.date | date: "%d de %B de %Y" }}</time>
+      <span>cena {{ page.date | date: "%j" }} de 366</span>
       {% if page.tags.size > 0 %}
         {% for tag in page.tags %}
-          <a class="tag-link" href="{{ '/tags/' | relative_url }}#{{ tag | slugify }}">{{ tag }}</a>
+          <a class="tag-link" href="{{ '/tags/' | relative_url }}#{{ tag | slugify }}">#{{ tag }}</a>
         {% endfor %}
       {% endif %}
     </div>
@@ -19,10 +24,18 @@ layout: default
   </div>
   <nav class="post-nav">
     {% if page.previous.url %}
-      <a href="{{ page.previous.url | relative_url }}">&larr; {{ page.previous.title }}</a>
+      <a href="{{ page.previous.url | relative_url }}">
+        <span class="cut-label">cena anterior</span>
+        &larr; {{ page.previous.title }}
+      </a>
     {% else %}<span></span>{% endif %}
     {% if page.next.url %}
-      <a href="{{ page.next.url | relative_url }}">{{ page.next.title }} &rarr;</a>
+      <a class="next" href="{{ page.next.url | relative_url }}">
+        <span class="cut-label">corta para:</span>
+        {{ page.next.title }} &rarr;
+      </a>
+    {% else %}
+      <span class="next fade-out" style="margin-top:0">FADE OUT.</span>
     {% endif %}
   </nav>
 </article>

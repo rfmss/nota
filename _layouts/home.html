@@ -1,75 +1,105 @@
 ---
 layout: default
 ---
-<div class="home-header">
-  <h1 class="home-title">Ficção</h1>
-  <p class="home-sub">{{ site.posts | size }} textos &mdash; 2020</p>
+<!-- Folha de rosto de roteiro -->
+<div class="cover">
+  <p class="cover-top">fio do verso · diário de sobrevivência</p>
+  <h1 class="cover-title">NOTAS DO RAFA</h1>
+  <p class="cover-by">escrito por</p>
+  <p class="cover-author">RAFA MASS</p>
+  <p class="cover-note">
+    366 cenas, uma por dia, durante a pandemia de 2020.<br>
+    Escrito com dor e sem inteligência artificial —<br>
+    um escritor no fim do mundo.
+  </p>
+  <p class="cover-source">
+    texto original em <a href="https://fiodoverso.wordpress.com/" rel="noopener noreferrer">fiodoverso.wordpress.com</a>
+  </p>
 </div>
+
+<hr class="post-divider">
+
+<div class="scene-index-label">ÍNDICE DE CENAS</div>
 
 <div class="post-list">
 {% for post in site.posts reversed %}
   <a class="post-item" href="{{ post.url | relative_url }}">
-    <time class="post-item-date">{{ post.date | date: "%d.%m" }}</time>
+    <span class="post-item-num">CENA {{ post.date | date: "%j" }}</span>
     <span class="post-item-title">{{ post.title }}</span>
+    <span class="post-item-dots"></span>
+    <time class="post-item-date">{{ post.date | date: "%d.%m" }}</time>
   </a>
 {% endfor %}
 </div>
 
+<p class="fade-out">FADE OUT.</p>
+
 <style>
-  .home-header { margin-bottom: 36px; }
-  .home-title {
-    font-family: Georgia, 'Times New Roman', serif;
-    font-size: 2.2rem;
-    font-weight: 700;
-    color: #1a1a1a;
-    letter-spacing: -0.5px;
-    margin-bottom: 6px;
-  }
-  body.dark .home-title { color: #e8e0d4; }
-  .home-sub {
-    font-family: 'Courier New', Courier, monospace;
+  .cover { text-align: center; padding: 4vh 0 2vh; }
+  .cover-top {
     font-size: 0.7rem;
     text-transform: uppercase;
-    letter-spacing: 0.1em;
-    color: #555;
+    letter-spacing: 0.18em;
+    color: #6d6a61;
+    margin-bottom: 7vh;
   }
-  body.dark .home-sub { color: #888; }
-  .post-list {
-    display: -webkit-flex;
-    display: flex;
-    -webkit-flex-direction: column;
-    flex-direction: column;
+  body.dark .cover-top { color: #8a867a; }
+  .cover-title {
+    font-size: clamp(1.5rem, 5.4vw, 2.3rem);
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-decoration: underline;
+    text-underline-offset: 8px;
+    margin-bottom: 5vh;
   }
+  .cover-by { font-size: 0.85rem; margin-bottom: 10px; }
+  .cover-author { font-size: 1.05rem; font-weight: 700; letter-spacing: 0.14em; margin-bottom: 6vh; }
+  .cover-note { font-size: 0.9rem; font-style: italic; line-height: 1.9; margin-bottom: 4vh; }
+  .cover-source { font-size: 0.74rem; text-transform: uppercase; letter-spacing: 0.08em; color: #6d6a61; }
+  body.dark .cover-source { color: #8a867a; }
+  .cover-source a { text-decoration: underline; text-underline-offset: 3px; }
+
+  .scene-index-label {
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    margin-bottom: 20px;
+  }
+  .post-list { display: flex; flex-direction: column; }
   .post-item {
-    display: -webkit-flex;
     display: flex;
-    -webkit-align-items: baseline;
     align-items: baseline;
-    padding: 12px 0;
-    border-bottom: 1px solid rgba(0,0,0,0.06);
-    color: #1a1a1a;
+    gap: 10px;
+    padding: 7px 0;
     text-decoration: none;
+    font-size: 0.88rem;
   }
-  body.dark .post-item { border-color: rgba(255,255,255,0.06); color: #e8e0d4; }
-  .post-item:first-child { border-top: 1px solid rgba(0,0,0,0.06); }
-  body.dark .post-item:first-child { border-top-color: rgba(255,255,255,0.06); }
-  .post-item-date {
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 0.7rem;
-    color: #999;
-    letter-spacing: 0.05em;
-    -webkit-flex-shrink: 0;
+  .post-item-num {
+    font-weight: 700;
     flex-shrink: 0;
-    width: 48px;
+    width: 9ch;
+    font-size: 0.76rem;
+    letter-spacing: 0.04em;
   }
   .post-item-title {
-    font-family: Georgia, 'Times New Roman', serif;
-    font-size: 1rem;
-    color: #1a1a1a;
-    line-height: 1.3;
-    margin-left: 16px;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+    line-height: 1.35;
   }
-  body.dark .post-item-title { color: #e8e0d4; }
-  .post-item:hover .post-item-title,
-  .post-item:active .post-item-title { color: #d97757; }
+  .post-item-dots {
+    flex: 1;
+    min-width: 20px;
+    border-bottom: 1px dotted rgba(0,0,0,0.35);
+    transform: translateY(-4px);
+  }
+  body.dark .post-item-dots { border-color: rgba(255,255,255,0.25); }
+  .post-item-date { font-size: 0.74rem; color: #6d6a61; flex-shrink: 0; }
+  body.dark .post-item-date { color: #8a867a; }
+  .post-item:hover .post-item-title { text-decoration: underline; text-underline-offset: 3px; }
+
+  @media (max-width: 540px) {
+    .post-item { flex-wrap: wrap; gap: 4px 10px; }
+    .post-item-dots { display: none; }
+    .post-item-date { margin-left: auto; }
+  }
 </style>
